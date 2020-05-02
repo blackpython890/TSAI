@@ -8,6 +8,9 @@ Testing Accuracy Analysis is devided into 3 Parts :
 2. L1 with GBN and L2 with GBN
 3. L1_L2 with GBN and L1_l2 with BN
 
+Graphical Analysis Image Link Below
+Link : https://github.com/jagatabhay/TSAI/blob/master/S6/Test_Accuracy_Function.png
+
 1. L1 with BN after 7th epoch more oscillation 
    whereas 
    L2 With BN before 7th Epoch havinh more Oscillation.
@@ -35,6 +38,6 @@ _---------------------------------------Loss Function Analysis -----------------
 4. L1 & L2 with BN and GBN they both are showing initial higher losses but became almost constant with no much fluctuations after some epochs
 
 Graphical Analysis Link Below
-<img src = 'https://github.com/jagatabhay/TSAI/blob/master/S6/Loss_Function.png'>
+Link : https://github.com/jagatabhay/TSAI/blob/master/S6/Loss_Function.png
 
 -----------------------------------------------------------------------------------------------------------

@@ -34,6 +34,7 @@ _---------------------------------------Loss Function Analysis -----------------
 
 4. L1 & L2 with BN and GBN they both are showing initial higher losses but became almost constant with no much fluctuations after some epochs
 
-
+Graphical Analysis Link Below
+<img src = 'https://github.com/jagatabhay/TSAI/blob/master/S6/Loss_Function.png'>
 
 -----------------------------------------------------------------------------------------------------------

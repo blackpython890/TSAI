@@ -1,1 +1,39 @@
-Session 6 Assignment
+Session 6 Assignment Conclusion
+------------------Testing Accuracy Analysis -------------------
+
+
+Testing Accuracy Analysis is devided into 3 Parts :
+
+1. L1 with BN and L2 With BN
+2. L1 with GBN and L2 with GBN
+3. L1_L2 with GBN and L1_l2 with BN
+
+1. L1 with BN after 7th epoch more oscillation 
+   whereas 
+   L2 With BN before 7th Epoch havinh more Oscillation.
+
+2. L1 with GBN After every Two epoch we  can observe flucatation
+   whereas
+   L2 with GBN after 12th Epoch test accuracy is almost constant.
+
+3. L1_L2 with GBN Most of the time it is oscillating and amongst of all , it is giving worst accuracy.
+   whereas
+   L1_l2 with BN given etter accuracy for most of the epoch compared with L1_L2 with GBN
+
+  And L1_l2 with BN started with lower test accuracy and till reaching 25th Epoch gave etter accuracy
+  compared with L1_L2 with GBN
+
+
+_---------------------------------------Loss Function Analysis -------------------------------
+
+1.L1& L2 with BN fall is most steep among all.
+
+2.L1 with BN has less oscillation than L2 with BN
+
+3.L1 with GBN and L2 with GBN they both are euivalent in all the epochs but L1 with GBN wins at the end with lower losses.
+
+4. L1 & L2 with BN and GBN they both are showing initial higher losses but became almost constant with no much fluctuations after some epochs
+
+
+
+-----------------------------------------------------------------------------------------------------------

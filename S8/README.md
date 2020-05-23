@@ -17,10 +17,15 @@ Number Of Parameters : 11,173,962 ( Trainable parameters ) .
 
 
 Result Achieved:
+
 Accuracy : 87%
+
 Epoch : 20
+
 Classwise Accuracy
+
 1. Highlest Accuracy : Ship , Frog .
+
 2. Lowest Accuracy : Cat .
 
 

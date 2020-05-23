@@ -1,5 +1,7 @@
 Sesssion : S8
+
 Objective : To Achieve 85% accuracy by using ResNet-18 Model.
+
 Dataset : CIFAR-10.
 
 Srategy : 

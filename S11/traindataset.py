@@ -27,5 +27,5 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
 
 
 
-print('Finished Training')        
+print('INFO : Finished Training')        
      

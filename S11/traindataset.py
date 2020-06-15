@@ -13,7 +13,7 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
             
             # forward + backward + optimize
             outputs = model(inputs)
-            loss = criterion(outputs, labels)
+            loss = criterion_(outputs, labels)
             loss.backward()
             optimizer.step()
             

@@ -1,7 +1,7 @@
 import torch
 
 
-def testdataset(model , device , testloader , ):
+def testdataset(model , device , testloader ):
     correct = 0
     total = 0
     with torch.no_grad():

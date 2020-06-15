@@ -12,16 +12,15 @@ def datasetloader(albumentationstransform_train_transforms , batchsize , numwork
                             ]) 
     
     trainset = torchvision.datasets.CIFAR10(root = './data', 
-                                        train = True ,
-                                        train = True ,
-                                        download = True , 
-                                        transform = albumentationstransform_train_transforms )
+                                            train = True ,
+                                            download = True , 
+                                            transform = albumentationstransform_train_transforms )
                                         
     trainloader = torch.utils.data.DataLoader(trainset,
                                               batch_size = batchsize,
                                               shuffle = True,
                                               num_workers = numwork , 
-                                              pin_memory = True)
+                                              pin_memory = True )
     
     
     testset = torchvision.datasets.CIFAR10(root='./data', 

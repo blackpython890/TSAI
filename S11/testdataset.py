@@ -8,7 +8,7 @@ def testdataset(model , device , testloader ):
           for data in testloader:
                images , labels = data[0].to(device) , data[1].to(device)
                output = model(images)
-               _ , predicted = torch.max(outputs.data, 1)
+               _ , predicted = torch.max(output.data, 1)
                total += labels.size(0)
                correct += (predicted == labels).sum().item()
      

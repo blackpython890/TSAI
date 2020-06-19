@@ -1,4 +1,4 @@
-from albumentations import Compose, Normalize, HorizontalFlip, VerticalFlip, Resize, Rotate , Cutout , RandomCrop , PadIfNeeded
+from albumentations import Compose, Normalize, HorizontalFlip, VerticalFlip, Resize, Rotate , Cutout , RandomCrop , PadIfNeeded , ChannelShuffle
 from albumentations.pytorch import ToTensor
 import numpy as np
 
@@ -9,6 +9,7 @@ class train_transforms():
         self.albTrainTransforms = Compose([  # Resize(256, 256),
             Rotate((-10.0, 10.0)),
             HorizontalFlip(p=0.5),
+            ChannelShuffle(p = 0.5), 
             PadIfNeeded( min_height = 36 , min_width = 36 ),
             RandomCrop( height = 32 , width = 32 , p = 1.0 ) ,
             Cutout(num_holes = 1, max_h_size = 8, max_w_size = 8),

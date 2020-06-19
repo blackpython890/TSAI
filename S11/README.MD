@@ -1,4 +1,4 @@
-Session : 11                  Super Convergence
+# Session : 11                  # Super Convergence
 
 Assignment:
 Write a code that draws Zig-ZAG/Cyclic Triangle curve (without the arrows). In submission, you'll upload your drawn curve and code for that.

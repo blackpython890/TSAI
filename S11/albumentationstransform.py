@@ -9,7 +9,7 @@ class train_transforms():
         self.albTrainTransforms = Compose([  # Resize(256, 256),
             Rotate((-10.0, 10.0)),
             HorizontalFlip(p=0.5),
-            PadIfNeeded( min_height = 4 , min_width = 4 ),
+            PadIfNeeded( min_height = 36 , min_width = 36 ),
             RandomCrop( height = 32 , width = 32 , p = 1.0 ) ,
             Cutout(num_holes = 1, max_h_size = 8, max_w_size = 8),
             Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5]),

@@ -27,7 +27,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
     4.c Add(X, R2)
 
 
-- MaxPooling with Kernel Size 4
+- MaxPooling with Kernel Size 4 and Stride 2
 - FC Layer 
 - SoftMax
 
@@ -39,9 +39,9 @@ Uses One Cycle Policy such that:
 - NO Annihilation
  
  Uses this transform
- -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
- -Batch size = 512
- -Target Accuracy: 90%.
+ - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
+ - Batch size = 512
+ - Target Accuracy: 90%.
 
 
-[Back To Top](#Super Convergence)
+[Back To Top](#Super-Convergence)

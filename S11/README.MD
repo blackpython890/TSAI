@@ -29,7 +29,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 
 ---
 
-**Uses One Cycle Policy such that:**
+**Use One Cycle Policy such that:**  [Super Convergence Reference](https://arxiv.org/pdf/1708.07120.pdf)
 - Total Epochs = 24
 - Max at Epoch = 5
 - LRMIN = FIND
@@ -51,7 +51,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * Initial Learning Rate = 0.01/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
- [Back To Top](#Super-Convergence)
+ [Back To Top](#Objective)
  
  ## Files
  The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
@@ -76,4 +76,4 @@ Author Info :
 - Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
 
-[Back To Top](#Super-Convergence)
+[Back To Top](#Objective)

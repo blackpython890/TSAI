@@ -1,4 +1,6 @@
-# Session : 11                  Super Convergence
+# Session : 11                  
+
+# Super Convergence
 
 ## Objective
 
@@ -51,7 +53,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * Initial Learning Rate = 0.01/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
- [Back To Top](##Objective)
+ [Back To Top](#Super-Convergence)
  
  ## Files
  The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
@@ -72,9 +74,8 @@ Write a code which uses this new ResNet Architecture for Cifar10:
    ![Zig-Zag Curve](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Figure.png)
 
 
-
+[Back To Top](#Super-Convergence)
 Author Info :
 - Facebook : [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
 
-[Back To Top](##Objective)

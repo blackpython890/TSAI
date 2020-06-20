@@ -1,6 +1,4 @@
-# Session : 11                  
-
-# Super Convergence
+# Session : 11                  Super Convergence
 
 ## Objective :
 
@@ -69,8 +67,13 @@ Write a code which uses this new ResNet Architecture for Cifar10:
  - Best Validation Accuracy : 91%  
  
 
-### Zig Zag 
+### Zig Zag Curve  One Cycle Policy Representation
+   ![Zig-Zag Curve](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Figure.png)
+
+
+
 Author Info :
 - Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
+
 
 [Back To Top](#Super-Convergence)

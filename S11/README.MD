@@ -44,4 +44,11 @@ Uses One Cycle Policy such that:
  - Target Accuracy: 90%.
 
 
+Author Info :
+- Facebook [/abhaykrishn](https://www.facebook.com/abhaykrishn)
+
+
 [Back To Top](#Super-Convergence)
+
+
+

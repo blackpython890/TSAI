@@ -51,7 +51,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * Initial Learning Rate = 0.01/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
- [Back To Top](#Objective-:)
+ [Back To Top](##Objective-:)
  
  ## Files
  The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
@@ -64,7 +64,8 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
   * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
   
- - Best Validation Accuracy : 91%  
+ 
+ *Best Validation Accuracy : 91%  *
  
 
 ### Zig Zag Curve  One Cycle Policy Representation
@@ -76,4 +77,4 @@ Author Info :
 - Facebook : [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
 
-[Back To Top](#Objective-:)
+[Back To Top](##Objective-:)

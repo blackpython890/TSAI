@@ -31,21 +31,21 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 - FC Layer 
 - SoftMax
 
-Uses One Cycle Policy such that:
+*Uses One Cycle Policy such that:*
 - Total Epochs = 24
 - Max at Epoch = 5
 - LRMIN = FIND
 - LRMAX = FIND
 - NO Annihilation
  
- Uses this transform
+ *Uses this transform*
  - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
  - Batch size = 512
  - Target Accuracy: 90%.
 
 
 Author Info :
-- Facebook [/abhaykrishn](https://www.facebook.com/abhaykrishn)
+- Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
 
 [Back To Top](#Super-Convergence)

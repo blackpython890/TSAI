@@ -50,18 +50,21 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * Initial Learning Rate = 0.001/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
+ [Back To Top](#Super-Convergence)
  
-
-[Back To Top](#Super-Convergence)
-
-
+ ## Files
+ The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
+ Source code can be found here
+  * [CustomResNet Neural Network Model](https://github.com/jagatabhay/TSAI/blob/master/S11/CustomResNet.py)
+  * [Albumentation Transformation](https://github.com/jagatabhay/TSAI/blob/master/S11/albumentationstransform.py)
+  * [Data Loader](https://github.com/jagatabhay/TSAI/blob/master/S11/dataloader.py)
+  * [LR-Range Test](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
+  * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
+  * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
+ 
+ 
 
 Author Info :
 - Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
-
-
 [Back To Top](#Super-Convergence)
-
-
-

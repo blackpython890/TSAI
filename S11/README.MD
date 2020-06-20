@@ -38,7 +38,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 - LRMAX = FIND
 - NO Annihilation
  
- **Uses this transform**
+ **Use below transform**
  - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
  - Batch size = 512
  - Target Accuracy: 90%.
@@ -63,8 +63,8 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * [Albumentation Transformation](https://github.com/jagatabhay/TSAI/blob/master/S11/albumentationstransform.py)
   * [Data Loader](https://github.com/jagatabhay/TSAI/blob/master/S11/dataloader.py)
   * [LR-Range Test](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
-  * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
-  * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
+  * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
+  * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/testdataset.py)
   
  
  *Best Validation Accuracy : 91%  *

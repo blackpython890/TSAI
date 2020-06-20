@@ -5,6 +5,7 @@
 ## Objective :
 
 Write a code which uses this new ResNet Architecture for Cifar10:
+
 ---
 - PrepLayer - Conv 3x3 s1, p1 >> BN >> RELU [64K ]
 
@@ -27,6 +28,8 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 - MaxPooling with Kernel Size 4 and Stride 2
 - Fully Connected Layer 
 - SoftMax
+
+---
 
 **Uses One Cycle Policy such that:**
 - Total Epochs = 24

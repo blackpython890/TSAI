@@ -2,27 +2,26 @@
 
 # Super Convergence
 
-## Problem :
+## Objective :
 
 Write a code which uses this new ResNet Architecture for Cifar10:
 
-- PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
+- PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64K ]
+
+- Layer1 -
+   -- X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
+   -- R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
+   -- Add(X, R1)
 
 
-2. Layer1 -
-   2.a X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
-   2.b R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
-   2.c Add(X, R1)
-
-
-3. Layer 2 -
+- Layer 2 -
    3.a Conv 3x3 [256k]
    3.b MaxPooling2D
    3.c BN
    3.d ReLU
 
 
-4.Layer 3 -
+- Layer 3 -
     4.a X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [512k]
     4.b R2 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [512k]
     4.c Add(X, R2)

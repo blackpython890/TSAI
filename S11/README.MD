@@ -44,7 +44,15 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 ## Results 
 - Maxium Learning Rate was found using LR-Range Test [Reference](https://github.com/davidtvs/pytorch-lr-finder/blob/master/torch_lr_finder/lr_finder.py)
   * Maximum LR = 0.01
-- One Cycle Policy 
+- One Cycle Policy div_factor = 10 [LR-Range Test Graph](https://github.com/jagatabhay/TSAI/blob/master/S11/LR-Range%20Test%20Result%20Graph.PNG)
+  * Initial Learning Rate = 0.001/10 = 0.001
+ - final_div_factor = 1 as NO Annihilation
+ 
+ 
+
+[Back To Top](#Super-Convergence)
+
+
 
 Author Info :
 - Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)

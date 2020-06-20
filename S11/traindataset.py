@@ -1,6 +1,6 @@
 
 
-def traindataset(range_ , model , device , trainloader , optimizer , criterion_ , batchsize , scheduler_ ):
+def traindataset(range_ , model , device , trainloader , optimizer , criterion_ , batchsize , scheduler_ = None ):
      for epoch in range(range_):  # loop over the dataset multiple times
         
         running_loss = 0.0
@@ -16,6 +16,7 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
             loss = criterion_(outputs, labels)
             loss.backward()
             
+            optimizer.step()
             scheduler_.step()
             
             # print statistics

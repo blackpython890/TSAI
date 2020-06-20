@@ -8,10 +8,10 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 
 - PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64K ]
 
-- Layer1 -
--- X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
--- R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
--- Add(X, R1)
+- Layer1 
+   X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
+   R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
+   Add(X, R1)
 
 
 - Layer 2 -
@@ -27,19 +27,21 @@ Write a code which uses this new ResNet Architecture for Cifar10:
     4.c Add(X, R2)
 
 
-5. MaxPooling with Kernel Size 4
-
-6. FC Layer 
-
-7. SoftMax
+- MaxPooling with Kernel Size 4
+- FC Layer 
+- SoftMax
 
 Uses One Cycle Policy such that:
-  1.Total Epochs = 24
-  2. Max at Epoch = 5
-  3. LRMIN = FIND
-  4. LRMAX = FIND
-  5. NO Annihilation
+- Total Epochs = 24
+- Max at Epoch = 5
+- LRMIN = FIND
+- LRMAX = FIND
+- NO Annihilation
  
- Uses this transform -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
- Batch size = 512
- Target Accuracy: 90%.
+ Uses this transform
+ -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
+ -Batch size = 512
+ -Target Accuracy: 90%.
+
+
+[Back To Top](#Super Convergence)

@@ -6,7 +6,7 @@
 
 Write a code which uses this new ResNet Architecture for Cifar10:
 
-1. PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
+- PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
 
 
 2. Layer1 -

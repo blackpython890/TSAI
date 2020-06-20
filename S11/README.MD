@@ -74,8 +74,8 @@ Write a code which uses this new ResNet Architecture for Cifar10:
    ![Zig-Zag Curve](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Figure.png)
 
 
-[Back To Top](#Super-Convergence)
 Author Info :
 - Facebook : [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
 
+[Back To Top](#Super-Convergence)

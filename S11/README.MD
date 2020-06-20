@@ -5,7 +5,7 @@
 ## Objective :
 
 Write a code which uses this new ResNet Architecture for Cifar10:
-
+---
 - PrepLayer - Conv 3x3 s1, p1 >> BN >> RELU [64K ]
 
 - Layer 1 
@@ -47,21 +47,23 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 - Maxium Learning Rate was found using LR-Range Test [Github Reference](https://github.com/davidtvs/pytorch-lr-finder/blob/master/torch_lr_finder/lr_finder.py)
   * Maximum LR = 0.01
 - One Cycle Policy div_factor = 10
-  * Initial Learning Rate = 0.001/10 = 0.001
+  * Initial Learning Rate = 0.01/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
  [Back To Top](#Super-Convergence)
  
  ## Files
  The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
- Source code can be found here
+ 
+ Source code can be found below :
   * [CustomResNet Neural Network Model](https://github.com/jagatabhay/TSAI/blob/master/S11/CustomResNet.py)
   * [Albumentation Transformation](https://github.com/jagatabhay/TSAI/blob/master/S11/albumentationstransform.py)
   * [Data Loader](https://github.com/jagatabhay/TSAI/blob/master/S11/dataloader.py)
   * [LR-Range Test](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
   * [Training DataSet](https://github.com/jagatabhay/TSAI/blob/master/S11/LRScheduler.py)
   * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/traindataset.py)
- 
+  
+ - Best Validation Accuracy : 91%  
  
 
 Author Info :

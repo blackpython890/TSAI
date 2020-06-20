@@ -38,7 +38,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
 - LRMAX = FIND
 - NO Annihilation
  
- **Use below transform**
+ **Use below transformation**
  - RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
  - Batch size = 512
  - Target Accuracy: 90%.

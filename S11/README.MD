@@ -67,7 +67,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * [Testing Dataset](https://github.com/jagatabhay/TSAI/blob/master/S11/testdataset.py)
   
  
- *Best Validation Accuracy : 91%  *
+ **Best Validation Accuracy : 91%**
  
 
 ### Zig Zag Curve  One Cycle Policy Representation

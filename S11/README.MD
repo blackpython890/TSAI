@@ -69,6 +69,7 @@ Write a code which uses this new ResNet Architecture for Cifar10:
  - Best Validation Accuracy : 91%  
  
 
+### Zig Zag 
 Author Info :
 - Facebook -- [abhaykrishn](https://www.facebook.com/abhaykrishn)
 

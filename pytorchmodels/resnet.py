@@ -76,7 +76,7 @@ def resnet18():
     
     
 
-def resnet34()
+def resnet34():
     model = ResNet(BasicBlock,[3, 4, 6, 3]).to(device)
     return model
 

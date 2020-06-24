@@ -78,5 +78,5 @@ def resnet18(num_classes):
     
     
 
-def resnet34():
+def resnet34(num_classes):
     return ResNet(BasicBlock, [3, 4, 6, 3] , num_classes ).to(device) , device

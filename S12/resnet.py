@@ -2,9 +2,10 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+
 use_cuda = torch.cuda.is_available()
 device = torch.device("cuda" if use_cuda else "cpu")
-print("Device Loading ",device)
+print("Device Load : ",device)
 
 
 class BasicBlock(nn.Module):
@@ -44,7 +45,7 @@ class ResNet(nn.Module):
         self.layer2 = self._make_layer(block, 128, num_blocks[1], stride=2) #6
         self.layer3 = self._make_layer(block, 256, num_blocks[2], stride=2) #6
         self.layer4 = self._make_layer(block, 512, num_blocks[3], stride=2) #6
-        self.linear = nn.Linear(512*block.expansion, num_classes)
+        self.linear = nn.Linear(4*512, num_classes)
 
     def _make_layer(self, block, planes, num_blocks, stride):
         strides = [stride] + [1]*(num_blocks-1)
@@ -70,14 +71,12 @@ class ResNet(nn.Module):
 print("Class Loaded Successfully ")
 
 
-def resnet18(num_class):
-    model = ResNet(BasicBlock, [2, 2, 2, 2] , num_class).to(device)
-    return model , device
+
+def resnet18(num_classes):
+    return ResNet(BasicBlock , [2, 2, 2, 2], num_classes ).to(device) , device
     
     
+    
 
-def resnet34(num_class):
-    model = ResNet(BasicBlock, [3, 4, 6, 3], num_class).to(device)
-    return model , device
-
-
+def resnet34():
+    return ResNet(BasicBlock, [3, 4, 6, 3] , num_classes ).to(device) , device

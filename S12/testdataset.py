@@ -15,4 +15,5 @@ def testdataset(model , device , testloader ):
      
      
     print('Accuracy of the Network on the 10000 test images: %d %%' % (100 * correct / total))
+    print('\n')
     return 100 * correct / total

@@ -3,7 +3,7 @@ from albumentations.pytorch import ToTensor
 import numpy as np
 
 
-class train_transforms():
+class train_transforms:
 
     def __init__(self):
         self.albTrainTransforms = Compose([  # Resize(256, 256),
@@ -20,7 +20,7 @@ class train_transforms():
         # this is train transforms
 
 
-    print("REQUIRED LIBRARIES LOADED...")
+    print("----------- INFO : REQUIRED albumentations LIBRARIES LOADED... -----------")
 
     def __call__(self, img):
         img = np.array( img )

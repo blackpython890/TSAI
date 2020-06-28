@@ -18,7 +18,7 @@ def datasetloader(albumentationstransform_train_transforms , batchsize , numwork
                                                         )
                                                         
                                         
-    trainloader = torch.utils.data.DataLoader(traindatasets ,
+    trainloader = torch.utils.data.DataLoader(traindataset ,
                                               batch_size = batchsize,
                                               shuffle = True,
                                               num_workers = numwork , 

@@ -26,7 +26,7 @@ def datasetloader(albumentationstransform_train_transforms , batchsize , numwork
                                               )
     
     
-    testset = test_datasets = datasets.ImageFolder( 'TinyImageNet/val' , 
+    testset = torchvision.datasets.ImageFolder( 'TinyImageNet/val' , 
                                                     transform = test_trans 
                                                     )
     

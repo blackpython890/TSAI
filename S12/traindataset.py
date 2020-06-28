@@ -30,5 +30,5 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
                running_loss = 0.0
 
     
-     print('INFO : Finished Training of Dataset ')
+     print('INFO : Finished Training of Dataset for one epoch')
      return loss     

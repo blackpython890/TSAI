@@ -32,7 +32,7 @@ def datasetloader(albumentationstransform_train_transforms , batchsize , numwork
     
     testloader = torch.utils.data.DataLoader(testset, 
                                              batch_size = batchsize ,
-                                             shuffle = False, 
+                                             shuffle = True, 
                                              num_workers = numwork , 
                                              pin_memory = True
                                              )

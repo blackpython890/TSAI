@@ -1,0 +1,12 @@
+"2.jpg5524":{"filename":"2.jpg","size":5524,"regions":[{"shape_attributes":{"name":"rect","x":59,"y":20,"width":144,"height":138},"region_attributes":{"Animal":"dog"}}],"file_attributes":{"caption":"","public_domain":"no","image_url":""}}
+
+Explanation:
+
+'filename' : filename of the image
+'regions' : 'x' : top_left corner x-coordinate of bouding box
+'regions' : 'y' : top_left corner y-coordinate of bouding box
+'regions' : 'width' : width of the bouding box
+'regions' : 'height' : height of the bouding box
+'region_attributes' : 'animal' is parent class, 'dog' is the class of bounding box
+,'file_attributes' : 'caption' : caption like angry dog or cute dog can be given
+ 'file_attributes' : 'image_url' : source of the url  

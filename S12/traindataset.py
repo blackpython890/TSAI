@@ -17,13 +17,15 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
             loss.backward()
             
             optimizer.step()
-            scheduler_.step()
+            if scheduler_ is not None:
+                    scheduler_.step()
             
+          
             # print statistics
             running_loss += loss.item()
-            #minibatch = 50000//batchsize
-            if i % 90 == 89 :    # print every 2000 mini-batches
-               print('[%d, %5d] loss: %.3f' %(epoch + 1, i + 1, running_loss / 89 ))
+            minibatch = 100000//batchsize
+            if i % minibatch == minibatch-1 :    # print every 2000 mini-batches
+               print('[%d, %5d] loss: %.3f' %(epoch + 1, i + 1, running_loss / minibatch-1 ))
                running_loss = 0.0
 
 

@@ -73,10 +73,12 @@ print("Class Loaded Successfully ")
 
 
 def resnet18(num_classes):
+    print('-------- InFo : ResNet18 Model Activated -----------')
     return ResNet(BasicBlock , [2, 2, 2, 2], num_classes ).to(device) , device
     
     
     
 
 def resnet34(num_classes):
+    print('-------- InFo : ResNet34 Model Activated -----------')
     return ResNet(BasicBlock, [3, 4, 6, 3] , num_classes ).to(device) , device

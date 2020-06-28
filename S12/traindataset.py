@@ -1,4 +1,4 @@
-loss = []
+
 
 def traindataset(range_ , model , device , trainloader , optimizer , criterion_ , batchsize , scheduler_ = None ):
      for epoch in range(range_):  # loop over the dataset multiple times
@@ -26,10 +26,7 @@ def traindataset(range_ , model , device , trainloader , optimizer , criterion_ 
             minibatch = 100000//batchsize
             if i % minibatch == minibatch-1 :    # print every 2000 mini-batches
                print('[%d, %5d] loss: %.3f' %(epoch + 1, i + 1, running_loss / minibatch-1 ))
-               running_loss = running_loss.mean()
-               loss.append(running_loss / minibatch-1)
                running_loss = 0.0
 
     
      print('INFO : Finished Training of Dataset for one epoch')
-     return loss     

@@ -50,4 +50,4 @@ OpenCV COCO Objects detection by YOLO files are mentioned below
    
   
   
-  - Please refer to this video to see all image detection [YouTube](https://www.youtube.com/watch?v=A0n0CvoeFEI)
+  - Please refer to this video to see all image detection [![YouTube](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/watch?v=A0n0CvoeFEI)

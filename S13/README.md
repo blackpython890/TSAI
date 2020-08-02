@@ -24,7 +24,7 @@
 ## Solution1:
 
 OpenCV COCO Objects detection by YOLO files are mentioned below
-- [Colab File](https://github.com/jagatabhay/TSAI/blob/master/S13/YOLODetectionUsingOpenCV.ipynb)
+- [![Colab File](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S13/YOLODetectionUsingOpenCV.ipynb)
 - Annotated Image:
   - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S13/ObjectDetect.jpg)
   
@@ -37,7 +37,7 @@ OpenCV COCO Objects detection by YOLO files are mentioned below
   All files related to Custom Dataset training are mentioned below.
   - Reference : [![Github Repo1](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/theschoolofai/YoloV3) and [![Github Repo2](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/miki998/YoloV3_Annotation_Tool)
   - All 500 Images : [Link](https://github.com/jagatabhay/TSAI/tree/master/S13/customdataset)
-  - [Colab File](https://github.com/jagatabhay/TSAI/blob/master/S13/YoloV3Demo.ipynb)
+  - [![Colab File](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S13/YoloV3Demo.ipynb)
   
   - Annotated Image1
      * ![Image](https://github.com/jagatabhay/TSAI/blob/master/S13/AnnotateImage01.jpg)

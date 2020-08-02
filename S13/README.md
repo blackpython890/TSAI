@@ -1,7 +1,8 @@
 ### Authors Info
 
 - Email : jagatabhay@gmail.com
-- Facebook : [Facebook](https://facebook.com/abhaykrishn)
+- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)
+
 
 # Session: 13 Yolo V3 Object Detection
 

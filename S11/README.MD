@@ -1,3 +1,9 @@
+### Authors Info
+- Email : jagatabhay@gmail.com
+- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)
+
+
+
 # Session : 11                  
 
 # Super Convergence
@@ -53,10 +59,10 @@ Write a code which uses this new ResNet Architecture for Cifar10:
   * Initial Learning Rate = 0.01/10 = 0.001
 - final_div_factor = 1 as NO Annihilation
  
- [Back To Top](#Super-Convergence)
+ [Back To Top](#authors-info)
  
  ## Files
- The IPYNB file can be found [here](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
+ The IPYNB file can be found [![here](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Assignment.ipynb)
  
  Source code can be found below :
   * [CustomResNet Neural Network Model](https://github.com/jagatabhay/TSAI/blob/master/S11/CustomResNet.py)
@@ -74,8 +80,5 @@ Write a code which uses this new ResNet Architecture for Cifar10:
    ![Zig-Zag Curve](https://github.com/jagatabhay/TSAI/blob/master/S11/S11_Figure.png)
 
 
-Author Info :
-- Facebook : [abhaykrishn](https://www.facebook.com/abhaykrishn)
 
-
-[Back To Top](#Super-Convergence)
+[Back To Top](#authors-info)

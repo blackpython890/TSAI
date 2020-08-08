@@ -78,6 +78,7 @@ Create Custom Dataset
    - Image Type : Randomly place the foreground on the background 20 times. 100 Bacground + 200 Foreground(100 Fg + 100 fg flip)
    - Image Dimension : (224 , 224 , 3)
    - Below source code is used to form overlay images.
+   - Total Images : 400K
    - ![]()
    - Sample Dataset is shown below
    - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg105190.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg125460.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg156810.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg82.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg66125.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg258129.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg229170.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/overlayImages/fg_bg193472.jpg)&nbsp;
@@ -97,6 +98,7 @@ Create Custom Dataset
    - Image Type : Depth Images of [overlay images](#overlay-images)
      - As we don't have Depth cameras , trained model is used to generate depth images. This depth images is used as ground truth while training model.
      - Github Reference : [![a](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/priya-dwivedi/Deep-Learning)
+   - Total Images - 400K
    - Image Dimension : (224 , 224 , 3)
    - Sample Dataset shown below
    - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16009.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16162.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg200.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg4057.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg50.jpg)&nbsp;

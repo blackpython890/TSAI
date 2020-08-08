@@ -118,7 +118,7 @@ Create Custom Dataset
 | 3 | Foreground Mask Images | 0.912 MB | 200 | [Google Drive](https://drive.google.com/drive/folders/1PZoZ19E523IfehC_Xw-CGywsxEuaRq-o?usp=sharing) |
 | 4 | Overlay Images | 14 GB | 400K | [Google Drive Set-1](https://drive.google.com/drive/folders/1vPEjYFLWSt6PdI4MEpcsjiU04aqyO3g3?usp=sharing) [Google Drive Set-2](https://drive.google.com/drive/folders/1SXZ-U16ciWNMm1zlF_skTyEbhX89kKwR) |
 | 5 | Overlay Mask Images | Please Update | 400K | Link |
-| 6 | Depth Images | Please Update | 400K | [Google Drive Set-1]() [Gooogle Drive Set-2](https://drive.google.com/drive/folders/1oc1hO56bwnFgg9F1b3Z32OgFXDaPNJXi) |
+| 6 | Depth Images | Please Update | 400K | [Google Drive Set-1]() [Google Drive Set-2](https://drive.google.com/drive/folders/1oc1hO56bwnFgg9F1b3Z32OgFXDaPNJXi) |
 
 #### Notes
   - Drive Set-1 Contains 276000 Images

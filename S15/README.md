@@ -120,15 +120,52 @@ Create Custom Dataset
 | 5 | Overlay Mask Images | Please Update | 400K | Link |
 | 6 | Depth Images | Please Update | 400K | [Google Drive Set-1]() [Google Drive Set-2](https://drive.google.com/drive/folders/1oc1hO56bwnFgg9F1b3Z32OgFXDaPNJXi) |
 
-#### Notes
-  - Drive Set-1 Contains 276000 Images
-  - Drive Set-2 Contains 124000 Images
+**Note :**
+  - Drive Set-1 Contains 276000 images
+  - Drive Set-2 Contains 124000 images
 
 
 ### Dataset Statistics
 - Colab File - [![ColabFile1](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_bg.ipynb)&nbsp;&nbsp;[![ColabFile2](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fg.ipynb)&nbsp;&nbsp;[![ColabFile3](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgmask.ipynb)&nbsp;&nbsp;[![ColabFile4](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbg.ipynb)&nbsp;&nbsp;[![ColabFile5](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbgDepth.ipynb)&nbsp;&nbsp;[![ColabFile6](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbgmask.ipynb)&nbsp;&nbsp;
 
+Souce Code is mentioned below
 
+``` Python
+import torch
+import torchvision
+
+dataset = torchvision.datasets.ImageFolder('gdrive/My Drive/root',
+                                           transform = torchvision.transforms.ToTensor() 
+                                           )
+
+dataloader = torch.utils.data.DataLoader(dataset ,
+                                         batch_size = 1,
+                                         shuffle = True,
+                                         num_workers = 1 , 
+                                         pin_memory = True 
+                                        )
+images , _ = iter(dataloader).next()
+
+def get_mean_and_std(image):
+  mean = torch.zeros(3)
+  std = torch.zeros(3)
+  for i in range(3):
+      mean[i] += image[:, i, :, :].mean()
+      std[i] += image[:,i, :, :].std()
+  return mean , std 
+  
+mean , std = get_mean_and_std(images)
+print('Mean : ',mean)
+print('Std : ',std)
+
+```
+**Graphical Representation of all dataset mean and standard deviation**
+
+
+![](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetsCharts.JPG)
+
+**Note :***
+ - Respective Dataset Statics data (mean and standard deviation ) is shared in colab.
 
 
 

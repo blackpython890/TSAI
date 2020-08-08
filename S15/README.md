@@ -50,23 +50,23 @@ Points to consider
 Create Custom Dataset
 
 - [Background Images](#background-images)
-   - Image Type : forest scenery without animals.
-   - Image size : 224 * 224
+   - Image Type : forest scenery without animals downloaded from internet and then resized
+   - Image Dimension : (224 , 224 , 3).
    - Total Images : 100
    - Dataset Sample shown below
    - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg013.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg025.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg035.jpg)&nbsp;![E](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg050.jpg)&nbsp;![F](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg052.jpg)&nbsp;![G](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg073.jpg)&nbsp;![H](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg080.jpg)
 
 
 - [Foreground Images](#forground-images)
-  - Image Type : Animals with white background.
-  - Image size : 125 * 125
+  - Image Type : Animals with white background downloaded from internet and then resized
+  - Image Dimension : (125 , 125 , 3)
   - Total Images : 100
   - Dataset Sample shown below
   - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg001.jpg)![B](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg005.jpg)![C](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg015.jpg)![D](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg020.jpg)![E](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg024.jpg)![F](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg036.jpg)![G](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg046.jpg)![H](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg053.jpg)![I](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg061.jpg)
 
 - [Foreground Mask Images](#foreground-mask-images)
    - Image Type : Mask Images of for forground image.
-   - Image Size : 125 * 125
+   - Image Dimension : (125 , 125 , 3)
    - Total Images : 100
    - Below Source code is used to form mask images.
    - ![Images](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/carbon.png)
@@ -76,7 +76,7 @@ Create Custom Dataset
  
  - [Overlay Images](#overlay-images)
    - Image Type : Randomly place the foreground on the background 20 times. 100 Bacground + 200 Foreground(100 Fg + 100 fg flip)
-   - Image size : 224 * 224
+   - Image Dimension : (224 , 224 , 3)
    - Below source code is used to form overlay images.
    - ![]()
    - Sample Dataset is shown below
@@ -86,7 +86,7 @@ Create Custom Dataset
    
  - [Overlay Mask Images](#overlay-mask-images)
    - Image Type : Mask Images of [overlay images](#overlay-images)
-   - Image size : 224 * 224
+   - Image Dimension : (224 , 224 , 3)
    - Tool used : [GIMP](https://www.gimp.org/)
    - Sample Dataset shown below
    - ![]()
@@ -97,7 +97,7 @@ Create Custom Dataset
    - Image Type : Depth Images of [overlay images](#overlay-images)
      - As we don't have Depth cameras , trained model is used to generate depth images. This depth images is used as ground truth while training model.
      - Github Reference : [![a](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/priya-dwivedi/Deep-Learning)
-   - Image Size : 224 * 224
+   - Image Dimension : (224 , 224 , 3)
    - Sample Dataset shown below
    - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16009.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16162.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg200.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg4057.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg50.jpg)&nbsp;
 ![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg5507.jpg)&nbsp;

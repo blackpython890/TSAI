@@ -48,17 +48,17 @@ Points to consider
 
 Create Custom Dataset
 
-1. [Background Images](#background-images)
+- [Background Images](#background-images)
    - Image Type : forest scenery without animals.
    - Image size : 224 * 224
    - Total Images : 100
    - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg)
-1. [Foreground Images](#forground-images)
+- [Foreground Images](#forground-images)
   - Image Type : Animals with white background.
   - Image size : 125 * 125
   - Total Images : 100
   - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG)
-1. [Foreground Mask Images](#foreground-mask-images)
+- [Foreground Mask Images](#foreground-mask-images)
    - Image Type : Mask Images of for forground image.
    - Image Size : 125 * 125
    - Total Images : 100

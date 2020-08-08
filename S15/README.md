@@ -1,3 +1,4 @@
+:star:
 
 # RCNN and Monocular Depth Estimation
 [![Python](https://img.shields.io/badge/Language%20%26%20Version-Python%203.6%2B-brightgreen)](https://www.python.org/)&nbsp;&nbsp;[![PyTorch](https://img.shields.io/badge/Library-PyTorch/OpenCV2-brightgreen)](https://pytorch.org)&nbsp;&nbsp;[![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/jagatabhay/TSAI?style=plastic)&nbsp;&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)&nbsp;&nbsp;
@@ -131,7 +132,7 @@ Points to consider
 ### Dataset Statistics
 - Colab File - [![ColabFile1](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_bg.ipynb)&nbsp;&nbsp;[![ColabFile2](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fg.ipynb)&nbsp;&nbsp;[![ColabFile3](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgmask.ipynb)&nbsp;&nbsp;[![ColabFile4](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbg.ipynb)&nbsp;&nbsp;[![ColabFile5](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbgDepth.ipynb)&nbsp;&nbsp;[![ColabFile6](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgbgmask.ipynb)&nbsp;&nbsp;
 
-Souce Code is mentioned below
+Source Code is mentioned below
 
 ``` Python
 import torch

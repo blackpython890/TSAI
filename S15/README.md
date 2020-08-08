@@ -47,5 +47,6 @@ Create Custom Dataset
 1. [Background Image](#background-image)
    - Image Type : forest scenery without animals.
    - Image size : 224 * 224
+   - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg)
    
    

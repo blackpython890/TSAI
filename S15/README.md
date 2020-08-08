@@ -87,6 +87,7 @@ Create Custom Dataset
    
  - [Overlay Mask Images](#overlay-mask-images)
    - Image Type : Mask Images of [overlay images](#overlay-images)
+   - Total Images : 400K
    - Image Dimension : (224 , 224 , 3)
    - Tool used : [GIMP](https://www.gimp.org/)
    - Sample Dataset shown below

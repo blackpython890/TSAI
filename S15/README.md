@@ -18,7 +18,7 @@ Steps need to be followed for creating custom dataset
    Randomly place the foreground on the background 20 times and in total 100x200x20 images formed 
  * Create equivalent mask of the fg_bg images.
 
-Use this fg_bg produced dataset in Monocular Depth Model and generate [Monocular Depth Maps](https://2.bp.blogspot.com/-x8Ft8PeU5t4/W_2GXlXjYqI/AAAAAAAADi4/-h__RwPtD4Y9WcjfiOMlCuyTpTkwK6m1gCLcBGAs/s1600/image7.png) 
+Use this fg_bg produced dataset in Monocular Depth Model and generate ![Monocular Depth Maps](https://2.bp.blogspot.com/-x8Ft8PeU5t4/W_2GXlXjYqI/AAAAAAAADi4/-h__RwPtD4Y9WcjfiOMlCuyTpTkwK6m1gCLcBGAs/s1600/image7.png) 
 
 
 **Total Images Tally**

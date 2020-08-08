@@ -53,6 +53,7 @@ Create Custom Dataset
    - Image Type : forest scenery without animals.
    - Image size : 224 * 224
    - Total Images : 100
+   - Dataset Sample shown below
    - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg013.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg025.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg035.jpg)&nbsp;![E](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg050.jpg)&nbsp;![F](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg052.jpg)&nbsp;![G](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg073.jpg)&nbsp;![H](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg080.jpg)
 
 
@@ -61,9 +62,9 @@ Create Custom Dataset
   - Image Type : Animals with white background.
   - Image size : 125 * 125
   - Total Images : 100
-  - <p align="center">
-     <img width="300" height="300" src="https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG">
-    </p> 
+  - Dataset Sample shown below
+  - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg005.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg015.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground/fg020.jpg)&nbsp;
+
 - [Foreground Mask Images](#foreground-mask-images)
    - Image Type : Mask Images of for forground image.
    - Image Size : 125 * 125

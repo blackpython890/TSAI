@@ -44,5 +44,8 @@ Points to consider
 
 Create Custom Dataset
 
-1. [Background](#background)
+1. [Background Image](#background-image)
+   - Image Type : forest scenery without animals.
+   - Image size : 224 * 224
+   
    

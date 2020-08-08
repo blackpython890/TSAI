@@ -41,12 +41,8 @@ Points to consider
 [Back to Top](#rcnn-and-monocular-depth-estimation)
 
 ## Solution
-<p>
-<b> Getting Started </b><br>
-<img align="left" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg">
-</p>
 
+Create Custom Dataset
 
----
-
-<img align="right" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG">
+1. [Background](#background)
+   

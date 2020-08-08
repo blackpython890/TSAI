@@ -57,7 +57,6 @@ Create Custom Dataset
    - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg013.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg025.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg035.jpg)&nbsp;![E](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg050.jpg)&nbsp;![F](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg052.jpg)&nbsp;![G](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg073.jpg)&nbsp;![H](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg080.jpg)
 
 
-   
 - [Foreground Images](#forground-images)
   - Image Type : Animals with white background.
   - Image size : 125 * 125
@@ -69,4 +68,7 @@ Create Custom Dataset
    - Image Type : Mask Images of for forground image.
    - Image Size : 125 * 125
    - Total Images : 100
-   - 
+   - Below Source code is used to form mask Images.
+   - ![Images](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/carbon.png)
+   - Dataset sample shown below
+   - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/ms021.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/ms027.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/ms033.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground%20masks/ms058.jpg)&nbsp;

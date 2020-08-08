@@ -54,6 +54,9 @@ Create Custom Dataset
    - Image size : 224 * 224
    - Total Images : 100
    - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg)
+   - <p align="center">
+     <img width="400" height="400" src="https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg">
+    </p> 
 - [Foreground Images](#forground-images)
   - Image Type : Animals with white background.
   - Image size : 125 * 125

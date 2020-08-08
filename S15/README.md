@@ -53,7 +53,7 @@ Create Custom Dataset
    - Image Type : forest scenery without animals.
    - Image size : 224 * 224
    - Total Images : 100
-   - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg013.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg025.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg035.jpg)
+   - ![A](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg001.jpg)&nbsp;![B](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg013.jpg)&nbsp;![C](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg025.jpg)&nbsp;![D](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg035.jpg)&nbsp;![E](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg050.jpg)&nbsp;![F](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg052.jpg)&nbsp;![G](https://github.com/jagatabhay/TSAI/blob/master/S15/background/bg073.jpg)
 
 
    

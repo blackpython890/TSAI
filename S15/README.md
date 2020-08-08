@@ -100,4 +100,6 @@ Create Custom Dataset
    - Image Size : 224 * 224
    - Sample Dataset shown below
    - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16009.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16162.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg200.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg4057.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg50.jpg)&nbsp;
-![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg5507.jpg)&nbsp; 
+![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg5507.jpg)&nbsp;
+![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg8126.jpg)&nbsp;
+![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg88407.jpg)&nbsp;

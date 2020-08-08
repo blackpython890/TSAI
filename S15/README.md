@@ -164,8 +164,8 @@ print('Std : ',std)
 
 ![](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetsCharts.JPG)
 
-**Note :***
- - Respective Dataset Statics data (mean and standard deviation ) is shared in colab.
+**Note :**
+ - Respective Dataset statistics data ( mean and standard deviation ) is shared in respective colab.
 
 
 

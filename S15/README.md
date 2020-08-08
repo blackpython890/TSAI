@@ -64,4 +64,3 @@ Create Custom Dataset
    - Image Type : Mask Images of for forground image.
    - Image Size : 125 * 125
    - Total Images : 100
-   - ![Image]()

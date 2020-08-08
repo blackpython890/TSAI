@@ -106,8 +106,16 @@ Create Custom Dataset
 
 
 
-DataSet Links
+### DataSet Size and Links
 
 | Seril No | Dataset Name | Dataset Size | Dataset Link Google Drive |
 | -------- | ------------ | ------------ | ------------------------- |
-| 1 | Background Image | 4.67 MB | Link |
+| 1 | Background Image |  4.67 MB | Link |
+| 2 | Foreground Image | 512 KB | Link |
+| 3 | Foreground Mask Images | Please Update | Link |
+| 4 | Overlay Images | Please Update | Link |
+| 5 | Overlay Mask Images | Please Update | Link |
+| 6 | Depth Images | Please Update | Link |
+
+### Dataset Statistics
+- Colab File - [![Colab File](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats.ipynb)

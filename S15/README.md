@@ -59,7 +59,7 @@ Create Custom Dataset
   - Image size : 125 * 125
   - Total Images : 100
   - ![Image](https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG)
-   
+
 1. [Foreground Mask Images](#foreground-mask-images)
    - Image Type : Mask Images of for forground image.
    - Image Size : 125 * 125

@@ -22,9 +22,7 @@ Use this fg_bg produced dataset in Monocular Depth Model and generate **Monocula
 
 <p align="center">
    <img width="400" height="400" src="https://2.bp.blogspot.com/-x8Ft8PeU5t4/W_2GXlXjYqI/AAAAAAAADi4/-h__RwPtD4Y9WcjfiOMlCuyTpTkwK6m1gCLcBGAs/s1600/image7.png">
-   <b> Moocular Depth Maps </b><br>
-</p>
- 
+</p> 
 
 
 **Total Images Tally**

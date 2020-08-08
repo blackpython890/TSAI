@@ -81,6 +81,7 @@ Create Custom Dataset
    - ![]()
    - Sample Dataset is shown below
    - ![]()
+   - Colab File - [![Colab](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/fg_bg.ipynb)
    
    
  - [Overlay Mask Images](#overlay-mask-images)
@@ -94,8 +95,10 @@ Create Custom Dataset
 
 - [Depth Images](#depth-images)
   - Image Type : Depth Images of [overlay images](#overlay-images)
-    - As we don't have Depth cameras , we have used model to generate depth images. This depth images is used as ground truth while training model.
+    - As we don't have Depth cameras , trained model is used to generate depth images. This depth images is used as ground truth while training model.
     - Github Reference : [![a](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/priya-dwivedi/Deep-Learning)
-  
+  - Image Size : 224 * 224
+  - Sample Dataset shown below
+  - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16009.jpg)&nbsp;![b](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_depthmages/fg_bg16162.jpg)&nbsp;
    
    

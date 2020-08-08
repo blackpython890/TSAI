@@ -122,3 +122,11 @@ Create Custom Dataset
 
 ### Dataset Statistics
 - Colab File - [![ColabFile1](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_bg.ipynb)&nbsp;&nbsp;[![ColabFile2](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fg.ipynb)&nbsp;&nbsp;[![ColabFile2](https://github.com/jagatabhay/TSAI/blob/master/openincolablogo.JPG)](https://github.com/jagatabhay/TSAI/blob/master/S15/DatasetStats_fgmask.ipynb)&nbsp;&nbsp;
+
+
+
+
+### Authors Info
+- Email : [jagatabhay@gmail.com]
+- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)
+- [![Github](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/jagatabhay)

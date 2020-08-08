@@ -91,7 +91,7 @@ Create Custom Dataset
    - Image Dimension : (224 , 224 , 3)
    - Tool used : [GIMP](https://www.gimp.org/)
    - Sample Dataset shown below
-   - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg100051.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg124052.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg136056.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg184068.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg42001.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg74035.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg88042.jpg)&nbsp;
+   - ![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg100051.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg124052.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg136056.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg184068.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg42001.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg74035.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg88042.jpg)&nbsp;![a](https://github.com/jagatabhay/TSAI/blob/master/S15/groundtruth_overlaymask/fg_bg90046.jpg)&nbsp;
 
 
 

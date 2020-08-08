@@ -85,5 +85,15 @@ Create Custom Dataset
    
  - [Overlay Mask Images](#overlay-mask-images)
   - Image Type : Mask Images of [overlay images](#overlay-images)
+  - Image size : 224 * 224
+  - Tool used : [GIMP](https://www.gimp.org/)
+  - Sample Dataset shown below
+  - ![]()
+
+
+- [Depth Images](#depth-images)
+  - Image Type : Depth Images of [overlay images](#overlay-images)
+    - As we don't have Depth cameras , we have used model to generate depth images. This depth images is used as ground truth while training model.
+  
    
    

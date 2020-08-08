@@ -1,6 +1,7 @@
 
 # RCNN and Monocular Depth Estimation
-[![Python](https://img.shields.io/badge/Language%20%26%20Version-Python%203.6%2B-brightgreen)](https://www.python.org/)&nbsp;&nbsp;[![PyTorch](https://img.shields.io/badge/Library-PyTorch/OpenCV2-brightgreen)](https://pytorch.org)&nbsp;&nbsp;[![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE)&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/Language%20%26%20Version-Python%203.6%2B-brightgreen)](https://www.python.org/)&nbsp;&nbsp;[![PyTorch](https://img.shields.io/badge/Library-PyTorch/OpenCV2-brightgreen)](https://pytorch.org)&nbsp;&nbsp;[![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE)&nbsp;&nbsp;![Contributors](https://img.shields.io/github/contributors/jagatabhay/TSAI?style=plastic)&nbsp;&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)&nbsp;&nbsp;
+
 
 ## Objective
 

@@ -3,7 +3,7 @@
 
 ## Objective
 
-Build your own custom dataset and use this dataset for monocular depth estmation.
+Build your own custom dataset and use this dataset for monocular depth estmation and segmentation simultaneously.
 
 You must have following images :
  * 100 background ( Scenes like fronts of the shops , malls , airport etc ) of you own choice.

@@ -46,10 +46,7 @@ Points to consider
 <img align="left" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg">
 </p>
 
-1. Background Images on left side
-1. Foreground Images on Right Side
 
-
-
+---
 
 <img align="right" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG">

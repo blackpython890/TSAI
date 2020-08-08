@@ -39,3 +39,13 @@ Points to consider
 ---
 
 [Back to Top](#rcnn-and-monocular-depth-estimation)
+
+## Solution
+
+
+<img align="left" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/background.jpg">
+
+1. Background Images on left side
+
+1. Foreground Images on Right Side
+<img align="right" width="200" height="200" src="https://github.com/jagatabhay/TSAI/blob/master/S15/foreground.JPG">

@@ -21,5 +21,5 @@ This Repository contains source code to the assignment given during TSAI Course.
 
 
 ### Author Info
-- Gmail : [jagatabhay@gmail.com](jagatabhay@gmail.com)
+- Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)
 - [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)

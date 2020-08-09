@@ -173,8 +173,74 @@ print('Std : ',std)
 
 ---
 
-Model
+### Model
 
---- 
+ U-Net Architecture Model is used to train on the data set.
+ In the UNET architecture downsampling ( encoder ) DENSENET-169 is used and Decoder ( Upsampling )  Images is croped from the densenet block and then concatenated as mentioned in the original paper.
+ 
+ 
+ ### Training 
+ 
+ Parameters :
+ - Epoech : 20
+ - Batch Size : 4
+ - Trained Images : 20K
+ - Learning Rate : 0.0001
+ 
+ 
+ ``` Python
+ !python train.py --data nyu --bs 4 --full --dnetVersion small
+ 
+ ```
+ 
+ Logs Data
+ ``` logs
+ 
+ Epoch 1/20
+250/250 [==============================] - 332s 1s/step - loss: 0.2110 - val_loss: 18.7512
+Epoch 2/20
+250/250 [==============================] - 268s 1s/step - loss: 0.1611 - val_loss: 18.7269
+Epoch 3/20
+250/250 [==============================] - 267s 1s/step - loss: 0.1476 - val_loss: 18.7756
+Epoch 4/20
+250/250 [==============================] - 269s 1s/step - loss: 0.1373 - val_loss: 18.7424
+Epoch 5/20
+250/250 [==============================] - 268s 1s/step - loss: 0.1285 - val_loss: 18.7604
+Epoch 6/20
+250/250 [==============================] - 268s 1s/step - loss: 0.1210 - val_loss: 18.7255
+Epoch 7/20
+250/250 [==============================] - 268s 1s/step - loss: 0.1162 - val_loss: 18.7370
+Epoch 8/20
+250/250 [==============================] - 267s 1s/step - loss: 0.1126 - val_loss: 18.7351
+Epoch 9/20
+250/250 [==============================] - 268s 1s/step - loss: 0.1067 - val_loss: 18.7834
+Epoch 10/20
+250/250 [==============================] - 267s 1s/step - loss: 0.1028 - val_loss: 18.7484
+Epoch 11/20
+250/250 [==============================] - 267s 1s/step - loss: 0.0986 - val_loss: 18.7541
+Epoch 12/20
+250/250 [==============================] - 268s 1s/step - loss: 0.0958 - val_loss: 18.7167
+Epoch 13/20
+250/250 [==============================] - 266s 1s/step - loss: 0.0936 - val_loss: 18.7412
+Epoch 14/20
+250/250 [==============================] - 267s 1s/step - loss: 0.0919 - val_loss: 18.7488
+Epoch 15/20
+250/250 [==============================] - 268s 1s/step - loss: 0.0900 - val_loss: 18.7129
+Epoch 16/20
+250/250 [==============================] - 267s 1s/step - loss: 0.0893 - val_loss: 18.7268
+Epoch 17/20
+250/250 [==============================] - 267s 1s/step - loss: 0.0851 - val_loss: 18.7367
+Epoch 18/20
+250/250 [==============================] - 268s 1s/step - loss: 0.0828 - val_loss: 18.7249
+Epoch 19/20
+250/250 [==============================] - 267s 1s/step - loss: 0.0820 - val_loss: 18.7354
+Epoch 20/20
+250/250 [==============================] - 266s 1s/step - loss: 0.0803 - val_loss: 18.7336
+ 
+ 
+ ```
+
+
+ 
 ### Author Info
 - Email : jagatabhay@gmail.com   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Github](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/jagatabhay)

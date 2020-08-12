@@ -7,7 +7,7 @@
 
 
 ## What this REPO is about ?
-This Repository contains source code to the assignment given during TSAI Course.
+This Repository is purely didicated to computer vision project.
 
 
 
@@ -17,8 +17,35 @@ This Repository contains source code to the assignment given during TSAI Course.
 </p>
 
 ### Prerequisite
+- Python
+-  
 
+### Models Used
+- [x] Custom Deep Neural Network
+- [x] ResNet
+- [ ] DenseNet
+- [ ] GoogleNet
 
+### Case Study
+- [x] Image Classification
+- [x] Object Detection using YOLO.
+- [x] Monocular Depth Estmation.
+- [ ] Object Segmentation.
+- [ ] GAN's
+
+### Dataset Used
+- [x] MNIST
+- [x] CIFAR10
+- [x] Custom Dataset for Object Detection.
+- [x] Tiny ImageNet
+- [ ] Coco
+- [ ] ImageNet
+
+### License 
+
+This project is licensed under the MIT license.
+
+See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE) for more details.
 
 ### Author Info
 - Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)

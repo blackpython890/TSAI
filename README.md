@@ -7,7 +7,7 @@
 
 
 ## What this REPO is about ?
-This Repository is purely didicated to computer vision project.
+This Repository is purely dedicated to computer vision project.
 
 
 
@@ -18,7 +18,8 @@ This Repository is purely didicated to computer vision project.
 
 ### Prerequisite
 - Python
--  
+- Knowledge of Image( heights , width , pixels , channels)
+- PyTorch
 
 ### Models Used
 - [x] Custom Deep Neural Network

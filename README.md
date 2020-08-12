@@ -16,6 +16,9 @@ This Repository is purely dedicated to computer vision project.
   <img width="300" height="300" src="https://github.com/jagatabhay/miscellaneous/blob/master/gettingstartedlogo.png">
 </p>
 
+---
+
+
 ### Prerequisite
 - Python
 - Knowledge of Image( heights , width , pixels , channels)
@@ -47,6 +50,9 @@ This Repository is purely dedicated to computer vision project.
 This project is licensed under the MIT license.
 
 See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE) for more details.
+
+---
+
 
 ### Author Info
 - Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)

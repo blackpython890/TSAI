@@ -47,7 +47,26 @@ This Repository is purely dedicated to computer vision project.
 - [ ] ImageNet
 
 <details>
-<summary>Session:4</summary>
+  <summary> Session:1 ML Intuition and Basics of CNN </summary>
+   
+Machine Learning Intuition, Background & Basics of CNN
+</details>
+
+<details>
+  <summary> Session:2 CNN Architecture </summary>
+  
+  This needs to be update.
+ </details>
+ 
+ <details>
+  <summary> Session:3 Kernels and Convulations </summary>
+  
+  This need to update
+ </details>
+
+
+<details>
+<summary>Session:4 Architecture Basics</summary>
 
 [Work Link](https://github.com/jagatabhay/S4/)
 </details>
@@ -55,7 +74,7 @@ This Repository is purely dedicated to computer vision project.
 
 
 <details>
-<summary>Session:5</summary>
+<summary>Session:5 Model Implementation</summary>
 
 [Work Link](https://github.com/jagatabhay/S5/)
 </details>
@@ -63,49 +82,49 @@ This Repository is purely dedicated to computer vision project.
 
 
 <details>
-<summary>Session:6</summary>
+<summary>Session:6 Batch Normalization and Regularization</summary>
   
  [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
 </details>
 
 
 <details>
-<summary>Session:7</summary>
+<summary>Session:7 Advanced Convolutions </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S7)
 </details>
 
 
 <details>
-<summary>Session:8</summary>
+<summary>Session:8 Receptive Fields and dfferent Netwwork Architecture </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
 </details>
 
 
 <details>
-<summary>Session:9</summary>
+<summary>Session:9 Data Augmentation </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S9)
 </details>
 
 
 <details>
-<summary>Session:10</summary>
+<summary>Session:10 Training and Learning Rates </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S10)
 </details>
 
 
 <details>
-<summary>Session:11</summary>
+<summary>Session:11 Super-Convergence </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
 </details>
 
 
 <details>
-<summary>Session:12</summary>
+<summary>Session:12 Object Localization </summary>
 
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
 </details>
@@ -113,13 +132,22 @@ This Repository is purely dedicated to computer vision project.
 
 
 <details>
-<summary>Session:13</summary>
-
+<summary>Session:13 YOLO 2 & 3 </summary>
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
 </details>
 
 
+<details>
+  <summary>Session:14 RCNN </summary>
+  
+  This needs to be update.
+</details>
 
+<details>
+  <summary>Session:15 Transfer Learning</summary>
+  
+  this need to be updated
+</details>
 
 ### License 
 

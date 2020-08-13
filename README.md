@@ -6,7 +6,8 @@
 [![Python](https://img.shields.io/badge/Language%20%26%20Version-Python%203.6%2B-brightgreen)](https://www.python.org/)&nbsp;&nbsp;[![PyTorch](https://img.shields.io/badge/Library-PyTorch-brightgreen)](https://pytorch.org)&nbsp;&nbsp;![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)&nbsp;&nbsp;[![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE)&nbsp;&nbsp;![LAST_COMMIT](https://img.shields.io/github/last-commit/jagatabhay/TSAI)&nbsp;&nbsp;![Contriutors](https://img.shields.io/github/contributors/jagatabhay/TSAI?style=plastic)&nbsp;&nbsp;
 
 
-## What this REPO is about ?
+## What this REPO is about
+
 This Repository is purely dedicated to computer vision project.
 
 
@@ -44,6 +45,25 @@ This Repository is purely dedicated to computer vision project.
 - [x] Tiny ImageNet
 - [ ] Coco
 - [ ] ImageNet
+
+<details>
+<summary>Session:4</summary>
+[Work Link](https://github.com/jagatabhay/S4/)
+</details>
+
+
+
+<details>
+<summary>Session:5</summary>
+[Work Link](https://github.com/jagatabhay/S5/)
+</details>
+
+
+
+<details>
+<summary>Session:6</summary>
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
+</details>
 
 ### License 
 

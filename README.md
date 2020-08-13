@@ -48,6 +48,7 @@ This Repository is purely dedicated to computer vision project.
 
 <details>
 <summary>Session:4</summary>
+
 [Work Link](https://github.com/jagatabhay/S4/)
 </details>
 
@@ -55,6 +56,7 @@ This Repository is purely dedicated to computer vision project.
 
 <details>
 <summary>Session:5</summary>
+
 [Work Link](https://github.com/jagatabhay/S5/)
 </details>
 
@@ -62,8 +64,62 @@ This Repository is purely dedicated to computer vision project.
 
 <details>
 <summary>Session:6</summary>
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
+  
+ [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
 </details>
+
+
+<details>
+<summary>Session:7</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S7)
+</details>
+
+
+<details>
+<summary>Session:8</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
+</details>
+
+
+<details>
+<summary>Session:9</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S9)
+</details>
+
+
+<details>
+<summary>Session:10</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S10)
+</details>
+
+
+<details>
+<summary>Session:11</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
+</details>
+
+
+<details>
+<summary>Session:12</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
+</details>
+
+
+
+<details>
+<summary>Session:13</summary>
+
+[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
+</details>
+
+
+
 
 ### License 
 

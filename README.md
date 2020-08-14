@@ -25,6 +25,13 @@ This Repository is purely dedicated to computer vision project.
 - Knowledge of Image( heights , width , pixels , channels)
 - PyTorch
 
+
+### Hardware Requirement
+- GPU : Tesla T4/Tesla K8 or higher versions.
+- GPU count : 1,2
+- RAM - 12GB
+- Disk Space - 
+
 ### Models Used
 - [x] Custom Deep Neural Network
 - [x] ResNet

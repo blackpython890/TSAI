@@ -24,18 +24,19 @@ This Repository is purely dedicated to computer vision project.
 - Python
 - Knowledge of Image( heights , width , pixels , channels)
 - PyTorch
+- Basics of OpenCV , Python Image Library(PIL) , matplotlib.
 
 
 ### Hardware Requirement
 - GPU : Tesla T4/Tesla K8 or higher versions.
 - GPU count : 1,2
-- RAM - 12GB
-- Disk Space - 
+- RAM - 12GB 
+
 
 ### Models Used
 - [x] Custom Deep Neural Network
 - [x] ResNet
-- [ ] DenseNet
+- [x] DenseNet
 - [ ] GoogleNet
 
 ### Case Study

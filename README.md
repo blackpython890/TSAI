@@ -74,7 +74,7 @@ Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTu
 Basics of CNN , how CNN learns , how different channels are formed , how DNN make sense of the inputs it gets ( __Features -> Edges & Gradients -> Patterns -> Part of Objects -> Objects__ ) . Please see below
 
 <p align='center'>
-  <img width='400' height='200' src="https://github.com/jagatabhay/miscellaneous/blob/master/Edges%20and%20Gradient.PNG">
+  <img src="https://github.com/jagatabhay/miscellaneous/blob/master/Edges%20and%20Gradient.PNG">
 </p>
 
 

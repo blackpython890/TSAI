@@ -8,7 +8,10 @@
 
 ## What this REPO is about
 
-This Repository is purely dedicated to computer vision project.
+
+With the advancement in the field of GPU and deep learning, the task of the model to classify the imaages,object detection etc is now something we can acheive with relatively higher accuracy and in real-time. And with this branch of Artifical Intelligence ***Computer Vision*** started to evolve. One of the driving factors behind the growth of Computer Vision field is the amount of data(images , videos ) we generate today is sufficient to trian the Convulation Neural Newtork (CNN) and make Computer Vision better.
+
+This repository contains my personal exploration and research on Convulation Neural Network , disciplined way to learn and implement the fundamentals of State Of the Art Models. 
 
 
 

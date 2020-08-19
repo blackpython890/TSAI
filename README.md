@@ -30,7 +30,7 @@ This Repository is purely dedicated to computer vision project.
 ### Hardware Requirement
 - GPU : Tesla T4/Tesla K8 or higher versions.
 - GPU count : 1,2
-- RAM - 12GB 
+- RAM - 12GB or higher
 
 
 ### Models Used

@@ -74,7 +74,7 @@ Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTu
 Basics of CNN , how CNN learns , how different channels are formed , 
 
 <p align='center'>
-  img width='200' height='200' src='https://github.com/jagatabhay/miscellaneous/blob/master/5-3ConvolutionSmall.gif'>
+  img width='200' height='200' src="https://github.com/jagatabhay/miscellaneous/blob/master/5-3ConvolutionSmall.gif">
 </p>
 
 

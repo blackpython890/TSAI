@@ -67,7 +67,12 @@ This repository contains my personal exploration and research on Convolution Neu
 <details>
   <summary>1. ML Intuition and Basics of CNN </summary>
    
-Machine Learning Intuition, Background & Basics of CNN
+
+Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) and Telusko [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/c/Telusko/playlists) helped me a lot to learn about python basics.
+
+
+
+
 </details>
 
 <details>

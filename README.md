@@ -18,14 +18,13 @@ This repository contains my personal exploration and research on Convolution Neu
  </p>
 
 
-
+---
 
 <p align="center">
   <b> Lets Get Started </b><br>
-  <img width="300" height="300" src="https://github.com/jagatabhay/miscellaneous/blob/master/gettingstartedlogo.png">
+  <img width="400" height="300" src="https://github.com/jagatabhay/miscellaneous/blob/master/gettingstartedlogo.png">
 </p>
 
----
 
 
 ### Prerequisite
@@ -48,10 +47,11 @@ This repository contains my personal exploration and research on Convolution Neu
 - [ ] GoogleNet
 
 ### Case Study
-- [x] Image Classification
+- [x] Image Classification.
 - [x] Object Detection using YOLO.
 - [x] Monocular Depth Estmation.
 - [ ] Object Segmentation.
+- [ ] Human Pose Estimation.
 - [ ] GAN's
 
 ### Dataset Used

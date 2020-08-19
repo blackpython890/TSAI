@@ -74,9 +74,11 @@ Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTu
 Basics of CNN , how CNN learns , how different channels are formed , how DNN make sense of the inputs it gets (Features -> Edges & Gradients -> Patterns -> Part of Objects and Objects )
 
 <p align='center'>
-  <>
+  <b> Core Concept </b>
   <img width='400' height='200' src="https://github.com/jagatabhay/miscellaneous/blob/master/5-3ConvolutionSmall.gif">
 </p>
+
+
 
 
 </details>

@@ -9,14 +9,19 @@
 ## What this REPO is about
 
 
-With the advancement in the field of GPU and deep learning, the task of the model to classify the imaages,object detection etc is now something we can acheive with relatively higher accuracy and in real-time. And with this branch of Artifical Intelligence ***Computer Vision*** started to evolve. One of the driving factors behind the growth of Computer Vision field is the amount of data(images , videos ) we generate today is sufficient to trian the Convulation Neural Newtork (CNN) and make Computer Vision better.
+With the advancement in the field of GPU and deep learning, the task of the model to classify the images,object detection etc is now something we can acheive with relatively higher accuracy and in real-time. And with this branch of Artifical Intelligence ***Computer Vision*** started to evolve. One of the driving factors behind the growth of Computer Vision field is the amount of data(images , videos ) we generate today is sufficient to trian the Convolution Neural Network (CNN) and make Computer Vision better.
 
-This repository contains my personal exploration and research on Convulation Neural Network , disciplined way to learn and implement the fundamentals of State Of the Art Models. 
+This repository contains my personal exploration and research on Convolution Neural Network , disciplined way to learn and implement the fundamentals of State Of the Art models.
+
+<p align = 'center'>
+  <img width = '600' height = '350' src = "https://github.com/jagatabhay/miscellaneous/blob/master/humanpose.gif">
+ </p>
+
 
 
 
 <p align="center">
-  <b> Getting Started </b><br>
+  <b> Lets Get Started </b><br>
   <img width="300" height="300" src="https://github.com/jagatabhay/miscellaneous/blob/master/gettingstartedlogo.png">
 </p>
 

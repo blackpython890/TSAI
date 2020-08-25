@@ -116,7 +116,7 @@ Work link Summary :
 - Learning Rate
 - Batch Size 
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/S4/)
+- [Work Link](https://github.com/jagatabhay/S4/) 
 </details>
 
 

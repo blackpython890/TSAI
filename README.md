@@ -103,7 +103,16 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 <details>
 <summary>4. Architecture Basics</summary>
 
-[Work Link](https://github.com/jagatabhay/S4/)
+CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
+Practical Topics :
+- Train MNIST Dataset to get 99.40% accuracy with given contraint. Kindly check the [worklink](https://github.com/jagatabhay/S4/) to know more.
+- Contrainst
+  - Parameters : 
+  - Epoch : 20
+  - Learning Rate
+  - Batch Size 
+  - Highest Accuracy - 
+  - [Work Link](https://github.com/jagatabhay/S4/)
 </details>
 
 

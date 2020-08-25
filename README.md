@@ -82,22 +82,23 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 
 <details>
   <summary>2. CNN Architecture </summary>
-  
-  &nbsp;
-  Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
+
+&nbsp;
+
+Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
   <p align='center'>
   <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
   </p>
-  
-  &nbsp;
- </details>
  
- <details>
+</details>
+ 
+<details>
   <summary>3. Kernels and Convolution </summary>
   
   &nbsp;
-  This need to update
+  
+This need to update
  </details>
 
 
@@ -105,9 +106,10 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 <summary>4. Architecture Basics</summary>
 
 &nbsp;
+
 CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
 
-WorkLink Summary :
+Work link Summary :
 - Train MNIST Dataset to get 99.40% accuracy with given contraint. Kindly check the [worklink](https://github.com/jagatabhay/S4) to know more.
 - Parameters : 
 - Epoch : 20
@@ -115,7 +117,6 @@ WorkLink Summary :
 - Batch Size 
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S4/)
-&nbsp;
 </details>
 
 
@@ -124,16 +125,17 @@ WorkLink Summary :
 <summary>5. Model Implementation</summary>
 
 &nbsp;
+
 Step by step guidance to build neural network , debugg , and to optimize to get the best accuracy.
 
-Kindly check [worklink](https://github.com/jagatabhay/S5)
+Kindly check [worklink](https://github.com/jagatabhay/S5) to know more.
 
-WorkLink Summary :
+Work link Summary :
 - Train MNIST Dataset to get 99.40% accuracy with given contraint. Kindly check the [worklink](https://github.com/jagatabhay/S5) to know more.
 - Parameters : 
 - Epoch : 15
-- Learning Rate
-- Batch Size 
+- Learning Rate :
+- Batch Size :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S5)
 &nbsp;

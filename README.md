@@ -11,7 +11,7 @@
 
 With the advancement in the field of GPU and deep learning, the task of the model to classify the images,object detection etc is now something we can acheive with relatively higher accuracy and in real-time. And with this branch of Artifical Intelligence ***Computer Vision*** started to evolve. One of the driving factors behind the growth of Computer Vision field is the amount of data(images , videos ) we generate today is sufficient to trian the Convolution Neural Network (CNN) and make Computer Vision better.
 
-This repository contains my personal exploration and research on Convolution Neural Network , disciplined way to learn and implement the fundamentals of State Of the Art models.
+This repository contains my personal exploration and research on Convolution Neural Network , disciplined way to learn and implement the fundamentals of State Of the Art models using PyTorch library.
 
 <p align = 'center'>
   <img width = '600' height = '350' src = "https://github.com/jagatabhay/miscellaneous/blob/master/humanpose.gif">
@@ -85,7 +85,12 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 <details>
   <summary>2. CNN Architecture </summary>
   
-  This needs to be update.
+  Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
+  
+  <p align='center'>
+  <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
+  </p>
+  
  </details>
  
  <details>

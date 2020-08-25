@@ -49,7 +49,7 @@ This repository contains my personal exploration and research on Convolution Neu
 ### Case Study
 - [x] Image Classification.
 - [x] Object Detection using YOLO.
-- [x] Monocular Depth Estmation.
+- [x] Monocular Depth Estimation.
 - [ ] Object Segmentation.
 - [ ] Human Pose Estimation.
 - [ ] GAN's
@@ -94,7 +94,7 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
  </details>
  
  <details>
-  <summary>3. Kernels and Convulations </summary>
+  <summary>3. Kernels and Convolution </summary>
   
   This need to update
  </details>

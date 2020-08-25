@@ -67,7 +67,7 @@ This repository contains my personal exploration and research on Convolution Neu
 <details>
   <summary>1. ML Intuition and Basics of CNN </summary>
    
-
+ &nbsp;
 Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) and Telusko [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/c/Telusko/playlists) helped me a lot to learn about python basics.
 
 
@@ -77,25 +77,26 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
   <img src="https://github.com/jagatabhay/miscellaneous/blob/master/Edges%20and%20Gradient.PNG">
 </p>
 
-
-
-
+&nbsp;
 </details>
 
 <details>
   <summary>2. CNN Architecture </summary>
   
+  &nbsp;
   Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
   <p align='center'>
   <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
   </p>
   
+  &nbsp;
  </details>
  
  <details>
   <summary>3. Kernels and Convolution </summary>
   
+  &nbsp;
   This need to update
  </details>
 
@@ -103,6 +104,7 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 <details>
 <summary>4. Architecture Basics</summary>
 
+&nbsp;
 CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
 
 WorkLink Summary :
@@ -113,6 +115,7 @@ WorkLink Summary :
 - Batch Size 
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S4/)
+&nbsp;
 </details>
 
 
@@ -120,6 +123,7 @@ WorkLink Summary :
 <details>
 <summary>5. Model Implementation</summary>
 
+&nbsp;
 Step by step guidance to build neural network , debugg , and to optimize to get the best accuracy.
 
 Kindly check [worklink](https://github.com/jagatabhay/S5)
@@ -132,6 +136,7 @@ WorkLink Summary :
 - Batch Size 
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S5)
+&nbsp;
 </details>
 
 

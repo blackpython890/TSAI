@@ -105,7 +105,6 @@ This need to update
 <details>
 <summary>4. Architecture Basics</summary>
 
-&nbsp;
 
 CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
 
@@ -116,7 +115,14 @@ Work link Summary :
 - Learning Rate
 - Batch Size 
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/S4/) 
+- [Work Link](https://github.com/jagatabhay/S4/)
+&nbsp;
+<p align='center'>
+  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/fullyconnectedlayer.png'>
+  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/droput.gif'>
+  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/LR.jpg'>
+  </p>
+
 </details>
 
 

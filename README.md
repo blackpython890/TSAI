@@ -87,16 +87,16 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 
 Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
-  <p align='center'>
+<p align='center'>
   <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
-  </p>
+</p>
  
 </details>
  
 <details>
   <summary>3. Kernels and Convolution </summary>
   
-  &nbsp;
+&nbsp;
   
 This need to update
  </details>
@@ -105,6 +105,7 @@ This need to update
 <details>
 <summary>4. Architecture Basics</summary>
 
+&nbsp;
 
 CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
 
@@ -116,11 +117,10 @@ Work link Summary :
 - Batch Size 
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S4/)
-&nbsp;
 <p align='center'>
-  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/fullyconnectedlayer.png'>
-  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/droput.gif'>
-  <img width = 200 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/LR.jpg'>
+  <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/fullyconnectedlayer.png'>
+  <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/droput.gif'>
+  <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/LR.jpg'>
   </p>
 
 </details>

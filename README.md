@@ -68,6 +68,7 @@ This repository contains my personal exploration and research on Convolution Neu
   <summary>1. ML Intuition and Basics of CNN </summary>
    
  &nbsp;
+
 Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) and Telusko [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/c/Telusko/playlists) helped me a lot to learn about python basics.
 
 
@@ -77,7 +78,6 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
   <img src="https://github.com/jagatabhay/miscellaneous/blob/master/Edges%20and%20Gradient.PNG">
 </p>
 
-&nbsp;
 </details>
 
 <details>
@@ -85,7 +85,7 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 
 &nbsp;
 
-Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), Importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
+Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
 <p align='center'>
   <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
@@ -133,7 +133,6 @@ Work link Summary :
 &nbsp;
 
 Step by step guidance to build neural network , debugg , and to optimize to get the best accuracy.
-
 Kindly check [worklink](https://github.com/jagatabhay/S5) to know more.
 
 Work link Summary :
@@ -144,7 +143,6 @@ Work link Summary :
 - Batch Size :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S5)
-&nbsp;
 </details>
 
 

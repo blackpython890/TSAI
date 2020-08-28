@@ -116,7 +116,7 @@ Work link Summary :
 - Learning Rate
 - Batch Size 
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/S4/)
+- [Work Link](https://github.com/jagatabhay/S4)
 <p align='center'>
   <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/fullyconnectedlayer.png'>
   <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/droput.gif'>
@@ -155,13 +155,13 @@ Work link Summary :
 Importance of Normalization , Batch normalization , Regularization of Datasets. Thin line difference between normalization and equalization.
  
 Work link Summary :
-- Train MNIST Dataset to get 99.40% accuracy with contraint and add regularization to it.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S6) to know more.
+- Train MNIST Dataset to get 99.40% accuracy with contraint and add regularization to it.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/tree/master/S6) to know more.
 - Parameters : 
 - Epoch : 15
 - Learning Rate :
 - Batch Size :
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/TSAI/S6)
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
 
 <p align = 'center'>
   <img width = 400 height = 400 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/normalization.png'>
@@ -178,13 +178,13 @@ Work link Summary :
 Different Types of convolution like Normal Convoultion, Dilated Convolutions, Pointwise Convolution(1x1), DECONVOLUTION or Fractionally Strided OR Transpose Convolution, Pixel Shuffle Algorithm, Depthwise Separable Convolution, Grouped Convolution. Dilated, Depthwise , Grouped is shown below respectively.
 
 Work link Summary :
-- Train CIFAR10 Dataset to get more that 80% accuracy with contraints.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S7) to know more.
+- Train CIFAR10 Dataset to get more that 80% accuracy with contraints.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/tree/master/S7) to know more.
 - Parameters : 
 - Epoch : 15
 - Learning Rate :
 - Batch Size :
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/TSAI/S7)
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S7)
 
 
 <p align = 'center'>
@@ -203,13 +203,13 @@ Work link Summary :
 Introduction to different neural network architecture like AlexNet , VGG , ResNet, GoogleNet, Inception, ResNext. Different Version of it. Importance of having multiple Receptive field.
 
 Work link Summary :
-- Train CIFAR10 Dataset to get more that 85% accuracy using ResNet-18 architecture. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S8) to know more.
+- Train CIFAR10 Dataset to get more that 85% accuracy using ResNet-18 architecture. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/tree/master/S8) to know more.
 - Model :
 - Epoch : 15
 - Learning Rate :
 - Batch Size :
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/TSAI/S8)
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
 
 </details>
 
@@ -223,13 +223,13 @@ One of the easy way to increase accuracy is to increase the receptive field(core
 Please see some the strategy mentiond images.
 
 Work link Summary :
-- Implement Augmentation module , GRADCAM module. And train the CIFAR10 dataset to achieve 87% accuracy. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S9) to know more.
+- Implement Augmentation module , GRADCAM module. And train the CIFAR10 dataset to achieve 87%+ accuracy. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/tree/master/S9) to know more.
 - Model :
 - Epoch : 15
 - Learning Rate :
 - Batch Size :
 - Highest Accuracy - 
-- [Work Link](https://github.com/jagatabhay/TSAI/S9)
+- [Work Link]https://github.com/jagatabhay/TSAI/tree/master/S9)
 
 <p align = 'center'>
   <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA1.png'>
@@ -252,8 +252,18 @@ This need to update.
 <details>
 <summary>11. Super-Convergence </summary>
 
-Implementation of phenomenon where a neural network can be trained on a faster magnitude than a standard training without hampering accuracy of the model. This is the implementation of reasearch paper [discussed here](https://arxiv.org/pdf/1708.07120.pdf).
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
+Implementation of phenomenon( Super-Convergence/One Cycle Policy) where a neural network can be trained on a faster magnitude than a standard training without hampering accuracy of the model.This is the implementation of reasearch paper [discussed here](https://arxiv.org/pdf/1708.07120.pdf). An intuition to implement this is that large learning rates regularize the training, hence requiring a reduction of all other forms of regularization in order to preserve the optimal balance. 
+
+Work link Summary :
+- Implement one-cycle policy along with data-augmentation strategy ad show GRADCAM module. And train the CIFAR10 dataset to achieve 90%+ accuracy. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/tree/master/S11) to know more.
+- Model :
+- Epoch : 15
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
+
+
 </details>
 
 

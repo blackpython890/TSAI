@@ -191,20 +191,52 @@ Work link Summary :
   <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/dilatedConvulation.gif'>
   <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/depthwise.png'>
   <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/groupedconvulation.png'>
+ </p> 
 </details>
 
 
 <details>
 <summary>8. Receptive Fields and dfferent Netwwork Architecture </summary>
 
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
+&nbsp;
+
+Introduction to different neural network architecture like AlexNet , VGG , ResNet, GoogleNet, Inception, ResNext. Different Version of it. Importance of having multiple Receptive field.
+
+Work link Summary :
+- Train CIFAR10 Dataset to get more that 85% accuracy using ResNet-18 architecture. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S8) to know more.
+- Model :
+- Epoch : 15
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/S8)
+
 </details>
 
 
 <details>
 <summary>9. Data Augmentation </summary>
 
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S9)
+&nbsp;
+
+One of the easy way to increase accuracy is to increase the receptive field(core idea of ResNet architecturec). One of the way also include regularization like DropOut , Batch Normalization , L1/L2 Regularization. All the above topic will fall short if the dataset is limited. And to tackle this we can use __Data Augmentation__ strategy.
+Please see some the strategy mentiond images.
+
+Work link Summary :
+- Implement Augmentation module , GRADCAM module. And train the CIFAR10 dataset to achieve 87% accuracy. Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S9) to know more.
+- Model :
+- Epoch : 15
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/S9)
+
+<p align = 'center'>
+  <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA1.png'>
+  <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA2.png'>
+  <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA3.png'>
+</p>
+
 </details>
 
 

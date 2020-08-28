@@ -155,7 +155,7 @@ Work link Summary :
 Importance of Normalization , Batch normalization , Regularization of Datasets. Thin line difference between normalization and equalization.
  
 Work link Summary :
-- Train MNIST Dataset to get 99.40% accuracy with given contraint and add regularization.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S6) to know more.
+- Train MNIST Dataset to get 99.40% accuracy with contraint and add regularization to it.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S6) to know more.
 - Parameters : 
 - Epoch : 15
 - Learning Rate :
@@ -175,10 +175,10 @@ Work link Summary :
 
 &nbsp;
 
-Different Types of convolution like Normal Convoultion, Dilated Convolutions, Pointwise Convolution(1x1), DECONVOLUTION or Fractionally Strided OR Transpose Convolution, Pixel Shuffle Algorithm, Depthwise Separable Convolution, Grouped Convolution.
+Different Types of convolution like Normal Convoultion, Dilated Convolutions, Pointwise Convolution(1x1), DECONVOLUTION or Fractionally Strided OR Transpose Convolution, Pixel Shuffle Algorithm, Depthwise Separable Convolution, Grouped Convolution. Dilated, Depthwise , Grouped is shown below respectively.
 
 Work link Summary :
-- Train MNIST Dataset to get 99.40% accuracy with given contraint and add regularization.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S6) to know more.
+- Train CIFAR10 Dataset to get more that 80% accuracy with contraints.Kindly check the [worklink](https://github.com/jagatabhay/TSAI/S7) to know more.
 - Parameters : 
 - Epoch : 15
 - Learning Rate :
@@ -187,6 +187,10 @@ Work link Summary :
 - [Work Link](https://github.com/jagatabhay/TSAI/S7)
 
 
+<p align = 'center'>
+  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/dilatedConvulation.gif'>
+  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/depthwise.png'>
+  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/groupedconvulation.png'>
 </details>
 
 

@@ -150,8 +150,22 @@ Work link Summary :
 <details>
 <summary>6. Batch Normalization and Regularization</summary>
   
- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
-</details>
+ Importance of Normalization , Batch normalization , Regularization of Datasets. Thin line difference between normalization and equalization.
+ 
+ Work link Summary :
+- Train MNIST Dataset to get 99.40% accuracy with given contraint and add regularization.Kindly check the [worklink](https://github.com/jagatabhay/S6) to know more.
+- Parameters : 
+- Epoch : 15
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/S6)
+
+<p align = 'center'>
+  <img width = 400 height = 400 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/normalization.png'>
+ </p>
+ 
+ </details>
 
 
 <details>

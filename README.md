@@ -215,7 +215,7 @@ Work link Summary :
 
 
 <details>
-<summary>9. Data Augmentation </summary>
+<summary>9. Data Augmentation/Model Diagnostics </summary>
 
 &nbsp;
 
@@ -241,8 +241,10 @@ Work link Summary :
 
 
 <details>
-<summary>10. Training and Learning Rates </summary>
+<summary>10. Advanced Training </summary>
 
+LR Finder.
+This need to update.
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S10)
 </details>
 
@@ -250,6 +252,7 @@ Work link Summary :
 <details>
 <summary>11. Super-Convergence </summary>
 
+Implementation of phenomenon where a neural network can be trained on a faster magnitude than a standard training without hampering accuracy of the model. This is the implementation of reasearch paper [discussed here](https://arxiv.org/pdf/1708.07120.pdf).
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
 </details>
 

@@ -188,9 +188,9 @@ Work link Summary :
 
 
 <p align = 'center'>
-  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/dilatedConvulation.gif'>
-  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/depthwise.png'>
-  <img weight = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/groupedconvulation.png'>
+  <img width = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/dilatedConvulation.gif'>
+  <img width = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/depthwise.png'>
+  <img width = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/groupedconvulation.png'>
  </p> 
 </details>
 
@@ -210,6 +210,12 @@ Work link Summary :
 - Batch Size :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
+
+<p align = 'center'>
+  <img width = 400 height = 400 src='https://github.com/jagatabhay/miscellaneous/blob/master/AlexNet.png'>
+  <img width = 400 height = 400 src='https://github.com/jagatabhay/miscellaneous/blob/master/VGGNet.png'>
+  <img width = 400 height = 400 src='https://github.com/jagatabhay/miscellaneous/blob/master/ResNet.png'>
+</p>
 
 </details>
 

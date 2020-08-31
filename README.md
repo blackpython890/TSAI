@@ -258,6 +258,8 @@ This need to update.
 <details>
 <summary>11. Super-Convergence </summary>
 
+&nbsp;
+
 Implementation of phenomenon( Super-Convergence/One Cycle Policy) where a neural network can be trained on a faster magnitude than a standard training without hampering accuracy of the model.This is the implementation of reasearch paper [discussed here](https://arxiv.org/pdf/1708.07120.pdf). An intuition to implement this is that large learning rates regularize the training, hence requiring a reduction of all other forms of regularization in order to preserve the optimal balance. 
 
 Work link Summary :
@@ -270,8 +272,8 @@ Work link Summary :
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
 
 <p align = 'center'>
-  <img width = 300 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCycleMinima.png'>
-  <img width = 300 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCyclePolicy.png'>
+  <img width = 250 , height = 250 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCycleMinima.png'>
+  <img width = 500 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCyclePolicy.png'>
  </p>
  
 </details>

@@ -80,7 +80,7 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 
 <details>
   <summary>2. CNN Architecture </summary>
-
+   
 Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
 <p align='center'>
@@ -91,8 +91,6 @@ Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 
  
 <details>
   <summary>3. Kernels and Convolution </summary>
-  
-&nbsp;
   
 Basic Pytorch architecture for working with neural networks, introduction to nn.Module, optimizers, forward and backward pass, datasets, how to apply simple augmentation.
  </details>
@@ -122,8 +120,8 @@ Work link Summary :
 
 
 <details>
-<summary>5. Model Implementation</summary>
-
+    <summary>5. Model Implementation</summary>
+    
 Step by step approach to build neural network , debugg , and to optimize to get the best accuracy.
 Kindly check [worklink](https://github.com/jagatabhay/S5) to know more.
 
@@ -330,8 +328,17 @@ This project is licensed under the MIT license.
 
 See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://github.com/jagatabhay/TSAI/blob/master/LICENSE) for more details.
 
----
 
+### Reference / Study Materials :
+ - Blogs on [Medium.com](https://medium.com) and [towards data science](https://towardsdatascience.com/)
+ - Research Paper on [Arxiv.org](https://arxiv.org/)
+ - Andrej Karapathy lecture on Youtube - ![AK](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)
+ - Youtube Videos on Python,Pytorch.
+ - Deep understanding of Pytorch by [DeepLizard.com](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+ - Lastly and most importantly - Guidance by Rohan Shravan [![LinkedIn](https://github.com/jagatabhay/TSAI/blob/master/logo.png)]()
+ - Community of TSAI. :love:
+
+---
 
 ### Author Info / Contributors :
 - Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)

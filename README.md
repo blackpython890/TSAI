@@ -269,7 +269,11 @@ Work link Summary :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
 
-
+<p align = 'center'>
+  <img width = 300 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCycleMinima.png'>
+  <img width = 300 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCyclePolicy.png'>
+ </p>
+ 
 </details>
 
 
@@ -283,6 +287,7 @@ Work link Summary :
 
 <details>
 <summary>13. YOLO 2 & 3 </summary>
+
 [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
 </details>
 

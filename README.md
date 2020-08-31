@@ -282,7 +282,23 @@ Work link Summary :
 <details>
 <summary>12. Object Localization </summary>
 
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
+Difference between Image classification and Image localization ( aka Image/Object Detection ). Detection approaches like Sliding window alogorithm, Regional propasal algorithms, Anchor box,shown below respectively. Pros and Cons of different approaches. Detailed study of latest approach anchor box - IOU ( Intersection over Union ), MAP ( Mean Aeverage Precision ), centriods, K-Means algorithms to compute centroids. Understanding YOLO-V2 [loss function](https://www.meetup.com/Machine-Learning-India-Bangalore/messages/boards/thread/52385226).
+
+Work link Summary :
+- Train Tiny-ImageNet on ResNet-18 within contraint to acheive 50%+ accuracy. [worklink](https://github.com/jagatabhay/TSAI/tree/master/S12) to know more.
+- Model : ResNet-18
+- Epoch : 50
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
+
+<p align = 'center'>
+  <img width = 300 height = 300 src=''>
+  <img width = 300 height = 300 src=''>
+  <img width = 300 height = 300 src=''>
+</p>
+
 </details>
 
 

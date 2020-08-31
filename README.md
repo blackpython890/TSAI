@@ -67,8 +67,6 @@ This repository contains my personal exploration and research on Convolution Neu
 <details>
   <summary>1. ML Intuition and Basics of CNN </summary>
    
- &nbsp;
-
 Basics of python can be learnt on YouTube. Channels like Corey Shagffer [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) and Telusko [![YouTubeLogo](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/c/Telusko/playlists) helped me a lot to learn about python basics.
 
 
@@ -82,8 +80,6 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 
 <details>
   <summary>2. CNN Architecture </summary>
-
-&nbsp;
 
 Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
   
@@ -104,8 +100,6 @@ Basic Pytorch architecture for working with neural networks, introduction to nn.
 
 <details>
 <summary>4. Architecture Basics</summary>
-
-&nbsp;
 
 CNN Architecture components Fully Connected Layer , Drop-Out , Softmax , Learning-Rate , Batch-Size.
 
@@ -130,8 +124,6 @@ Work link Summary :
 <details>
 <summary>5. Model Implementation</summary>
 
-&nbsp;
-
 Step by step approach to build neural network , debugg , and to optimize to get the best accuracy.
 Kindly check [worklink](https://github.com/jagatabhay/S5) to know more.
 
@@ -150,7 +142,6 @@ Work link Summary :
 <details>
 <summary>6. Batch Normalization and Regularization</summary>
   
-&nbsp;
 
 Importance of Normalization , Batch normalization , Regularization of Datasets. Thin line difference between normalization and equalization.
  
@@ -172,8 +163,6 @@ Work link Summary :
 
 <details>
 <summary>7. Advanced Convolutions </summary>
-
-&nbsp;
 
 Different Types of convolution like Normal Convoultion, Dilated Convolutions, Pointwise Convolution(1x1), DECONVOLUTION or Fractionally Strided OR Transpose Convolution, Pixel Shuffle Algorithm, Depthwise Separable Convolution, Grouped Convolution. Dilated, Depthwise , Grouped is shown below respectively.
 
@@ -198,8 +187,6 @@ Work link Summary :
 <details>
 <summary>8. Receptive Fields and dfferent Netwwork Architecture </summary>
 
-&nbsp;
-
 Introduction to different neural network architecture like AlexNet , VGG , ResNet, GoogleNet, Inception, ResNext. Different Version of it. Importance of having multiple Receptive field.
 
 Work link Summary :
@@ -222,8 +209,6 @@ Work link Summary :
 
 <details>
 <summary>9. Data Augmentation/Model Diagnostics </summary>
-
-&nbsp;
 
 One of the easy way to increase accuracy is to increase the receptive field(core idea of ResNet architecturec). One of the way also include regularization like DropOut , Batch Normalization , L1/L2 Regularization. All the above topic will fall short if the dataset is limited. And to tackle this we can use __Data Augmentation__ strategy.
 Please see some the strategy mentiond images.
@@ -257,8 +242,6 @@ This need to update.
 
 <details>
 <summary>11. Super-Convergence </summary>
-
-&nbsp;
 
 Implementation of phenomenon( Super-Convergence/One Cycle Policy) where a neural network can be trained on a faster magnitude than a standard training without hampering accuracy of the model.This is the implementation of reasearch paper [discussed here](https://arxiv.org/pdf/1708.07120.pdf). An intuition to implement this is that large learning rates regularize the training, hence requiring a reduction of all other forms of regularization in order to preserve the optimal balance. 
 
@@ -294,9 +277,9 @@ Work link Summary :
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
 
 <p align = 'center'>
-  <img width = 300 height = 300 src=''>
-  <img width = 300 height = 300 src=''>
-  <img width = 300 height = 300 src=''>
+  <img width = 300 height = 300 src='https://github.com/jagatabhay/miscellaneous/blob/master/SlidingWindow.gif'>
+  <img width = 300 height = 300 src='https://github.com/jagatabhay/miscellaneous/blob/master/RegionalProposal.gif'>
+  <img width = 300 height = 300 src='https://github.com/jagatabhay/miscellaneous/blob/master/AnchorBox.gif'>
 </p>
 
 </details>
@@ -306,7 +289,22 @@ Work link Summary :
 <details>
 <summary>13. YOLO 2 & 3 </summary>
 
-[Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
+Introduction to YOLO and why is it called YOLO ? FPS of YOLO. Anchor Box variation on datasets.
+
+Work link Summary :
+- Use OpenCV to detect COCO Dataset Objects. Collect a custom dataset of 500 Images and detection by YOLO. [worklink](https://github.com/jagatabhay/TSAI/tree/master/S13) to know more.
+- Model : ResNet-18
+- Epoch : 50
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
+- Object Detection Youtube Video - [![YouTube](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)](https://www.youtube.com/watch?v=A0n0CvoeFEI)
+
+<p align = 'center'>
+  <img width = 350 height = 350 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/YOLO.png'>
+ </p>
+ 
 </details>
 
 

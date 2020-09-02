@@ -81,7 +81,7 @@ Basics of CNN , how CNN learns , how different channels are formed , how DNN mak
 <details>
   <summary>2. CNN Architecture </summary>
    
-Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field.
+Basic CNN Architecture , maintain symmetry by chosing odd size kernel(Example : 3X3 , 5X5), importance of choosing 3X3 kernel over 5X5 or higher odd kernel , Max-Pooling  , Receptive Field. Below image represents convolution from 5x5-3x3-1x1 and receptive field increase from left to right as convolution occurs or layers increases.
   
 <p align='center'>
   <img src= 'https://github.com/jagatabhay/miscellaneous/blob/master/RF.gif'>
@@ -109,6 +109,8 @@ Work link Summary :
 - Batch Size 
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/S4)
+
+Fully Connected layer(FC) vs Drop-Out vs Learning Rate is shown below respectively.
 <p align='center'>
   <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/fullyconnectedlayer.png'>
   <img width = 300 height = 200 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/droput.gif'>
@@ -152,6 +154,7 @@ Work link Summary :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S6)
 
+Original Data Mean vs Normalized Data mean is shown below recpectively.
 <p align = 'center'>
   <img width = 400 height = 400 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/normalization.png'>
  </p>
@@ -173,7 +176,7 @@ Work link Summary :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S7)
 
-
+Dilated Convolution vs Depthwise vs Group Convolution is shown below respectively.
 <p align = 'center'>
   <img width = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/dilatedConvulation.gif'>
   <img width = 350 height = 250 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/depthwise.png'>
@@ -195,6 +198,8 @@ Work link Summary :
 - Batch Size :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S8)
+
+Comparison of architecture like AlexNet, VGGNet, ResNet is shown below.
 
 <p align = 'center'>
   <img width = 400 height = 400 src='https://github.com/jagatabhay/miscellaneous/blob/master/AlexNet.png'>
@@ -220,6 +225,7 @@ Work link Summary :
 - Highest Accuracy - 
 - [Work Link]https://github.com/jagatabhay/TSAI/tree/master/S9)
 
+Just have a look at different data augmentation strategy.
 <p align = 'center'>
   <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA1.png'>
   <img width = 300 , height = 300 src = 'https://github.com/jagatabhay/miscellaneous/blob/master/DA2.png'>
@@ -252,6 +258,8 @@ Work link Summary :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S11)
 
+One Cycle Minima , Test accuracy to show significance of Super-convergnece.
+
 <p align = 'center'>
   <img width = 250 , height = 250 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCycleMinima.png'>
   <img width = 500 , height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/OneCyclePolicy.png'>
@@ -273,6 +281,8 @@ Work link Summary :
 - Batch Size :
 - Highest Accuracy - 
 - [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S12)
+
+Lets have a visualization of Sliding Window algorithm , Regional Proposal, Anchor Box.
 
 <p align = 'center'>
   <img width = 300 height = 300 src='https://github.com/jagatabhay/miscellaneous/blob/master/SlidingWindow.gif'>

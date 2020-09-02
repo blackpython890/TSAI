@@ -309,8 +309,28 @@ Work link Summary :
 <details>
   <summary>14. RCNN </summary>
   
-Introduction to RCNN family. RCNN family find it's root in  [Selective Search for Object Recognition - SSOR](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf) and [Efficient Graph based Image Segmentation - EGIS](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf). SSOR uses EGIS to create initial regions and then uses greedy algorithm to form categorize similar groups. And with the help of color channel , Image segmentation and Classification is done. Popular architecture are using SSOR and EGIS like Region with CNN features also knows as __R-CNN__ , __Fast R-CNN__, __Faster R-CNN__ where each one the architecture remove cons of previous one respectively.
+<p align = 'center'>
+  <img width = 600 height = 300 src= 'https://github.com/jagatabhay/miscellaneous/blob/master/MaskRCNN.png'>
+ </p>
+ 
+Introduction to RCNN family. RCNN family find it's root in  [Selective Search for Object Recognition - SSOR](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf) and [Efficient Graph based Image Segmentation - EGIS](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf). SSOR uses EGIS to create initial regions and then uses greedy algorithm to form categorize similar groups. And with the help of color channel , Image segmentation and Classification is done. Popular architecture are using SSOR and EGIS like Region with CNN features also knows as __R-CNN__ , __Fast R-CNN__, __Faster R-CNN__ where each one the architecture remove cons of previous one respectively. Now interestingly, we can add two additional convulation layer to build __Mask R-CNN__ from __Faster R-CNN__ architecture. Both the architecture as shown below Faster R-CNN vs Mask RCNN.
 
+
+
+ ![](https://github.com/jagatabhay/miscellaneous/blob/master/FasterRCNNArchitecture.jpg)
+ 
+ ![](https://github.com/jagatabhay/miscellaneous/blob/master/MaskRCNNArchitecture.png)
+
+Work link Summary :
+- .
+- Model : ResNet-18
+- Epoch : 50
+- Learning Rate :
+- Batch Size :
+- Highest Accuracy - 
+- [Work Link](https://github.com/jagatabhay/TSAI/tree/master/S13)
+
+<p align>
 </details>
 
 <details>
@@ -336,6 +356,7 @@ See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://g
  - Andrej Karapathy lecture on Youtube - ![AK](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)
  - Youtube Videos on Python,Pytorch.
  - Deep understanding of Pytorch by [DeepLizard.com](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+ - Analytics Vidhya - [Analytics Vidhya](https://www.analyticsvidhya.com/)
  - Lastly and most importantly - Guidance by Rohan Shravan [![LinkedIn](https://github.com/jagatabhay/TSAI/blob/master/logo.png)]()
  - Community of TSAI.
 

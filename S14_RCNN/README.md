@@ -121,7 +121,7 @@ Points to consider
 | 3 | Foreground Mask Images | 0.912 MB | 200 | [Google Drive](https://drive.google.com/drive/folders/1PZoZ19E523IfehC_Xw-CGywsxEuaRq-o?usp=sharing) |
 | 4 | Overlay Images | 14 GB | 400K | [Google Drive Set-1](https://drive.google.com/drive/folders/1vPEjYFLWSt6PdI4MEpcsjiU04aqyO3g3?usp=sharing) [Google Drive Set-2](https://drive.google.com/drive/folders/1SXZ-U16ciWNMm1zlF_skTyEbhX89kKwR) |
 | 5 | Overlay Mask Images | - | 400K | - |
-| 6 | Depth Images | Please Update | 400K | [Google Drive Set-1](https://drive.google.com/drive/folders/15lSuGG3oyg3A3_SP_N6CXHi1iFVtL74J?usp=sharing) [Google Drive Set-2](https://drive.google.com/drive/folders/1oc1hO56bwnFgg9F1b3Z32OgFXDaPNJXi) |
+| 6 | Depth Images | 12 GB | 400K | [Google Drive Set-1](https://drive.google.com/drive/folders/15lSuGG3oyg3A3_SP_N6CXHi1iFVtL74J?usp=sharing) [Google Drive Set-2](https://drive.google.com/drive/folders/1oc1hO56bwnFgg9F1b3Z32OgFXDaPNJXi) |
 
 **Note :**
   - Drive Set-1 Contains 276000 images

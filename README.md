@@ -365,10 +365,7 @@ See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://g
  - Research Paper on [Arxiv.org](https://arxiv.org/)
  - Andrej Karapathy lecture on Youtube - ![AK](https://github.com/jagatabhay/TSAI/blob/master/S13/logo.png)
  - Youtube Videos on Python,Pytorch.
- - Deep understanding of Pytorch by [DeepLizard.com](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
- - Analytics Vidhya - [Analytics Vidhya](https://www.analyticsvidhya.com/)
- - Lastly and most importantly - Guidance by Rohan Shravan [![LinkedIn](https://github.com/jagatabhay/TSAI/blob/master/logo.png)]()
- - Community of TSAI.
+
 
 ---
 

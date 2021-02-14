@@ -371,5 +371,5 @@ See [![License](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](https://g
 
 ### Author Info / Contributors :
 - Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)
-- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)
+- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://bit.ly/3aGu8L4)
 - [![Github](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/jagatabhay)
